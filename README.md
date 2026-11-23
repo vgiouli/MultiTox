@@ -1,65 +1,55 @@
-This repository contains the implementation of a toxic speech identification classifier developed in the context of the emoBot project, an LLM-based educational system for second/foreign language learning.
-The classifier is designed to detect both explicit and implicit toxic language in educational interactions and supports downstream tasks such as:
-- content filtering
-- safe dialogue generation
-- detoxification pipelines
-The work emphasizes linguistically informed annotation and ethically grounded NLP practices.
+# Beyond Explicit Toxicity
 
-**Repository structure**
-```bash
+This repository contains a German–Greek corpus for research on explicit and implicit toxic language, developed within EmoBot, an LLM-based educational system for second and foreign language learning. Both language components contain written text and use the same three-layer annotation scheme for toxicity type, bias type, and target type.
+
+The accompanying notebook documents the classifier training used to establish experimental baselines for the corpus. The resource can support research on content filtering, dialogue safety, and detoxification. The paper evaluates classification performance on the corpus.
+
+> **Content warning:** The corpus contains offensive, abusive, and discriminatory language.
+
+## Repository structure
+
+```text
 .
-├── data/              # Datasets (DE, EL into dev/train/test splits)
-├── models/            # Trained models (to be added)
+├── data/                               # German and Greek data and experimental splits
+├── models/                             # Trained baseline models (to be added)
 ├── notebooks/
-│   └── toxic_classifier_training.ipynb #notebooks for experimentation
-├── src/               # Training, evaluation, inference scripts (to be added)
-├── results/           # Evaluation outputs (to be added)
+│   └── toxic_classifier_training.ipynb # Baseline training and experimentation
+├── src/                                # Training, evaluation, and inference scripts (to be added)
+├── results/                            # Evaluation outputs (to be added)
 └── README.md
-
-
-
 ```
 
-**Datasets**
+## Datasets
 
-The dataset consists of German (DE) and Greek (EL) data. The DE corpus comprises 210,518 tokens.
+The corpus comprises German (DE) and Greek (EL) components. The German component contains selected records from five existing corpora that were manually re-annotated under the shared scheme. It comprises 210,518 tokens. The Greek component contains newly collected social media posts.
 
-The corpus has been split into training, development, and test sets. 
+Four trained linguists contributed to the annotation. Inter-annotator agreement was assessed using Krippendorff’s alpha on independently annotated subsets of 150 records per language. Both components use adjudicated labels for toxicity type, bias type, and target type.
 
+The table reports record counts for the experimental splits. The German row gives the original partitions.
 
-
-
-| Language     | Dev | Train | Test | Total |
-|--------------|-----|-------|------|-------|
-| German (DE)  | 805 |  6443 | 806  | 8054  |
-| Greek (EL)   |     |       |      |       |
-| **Total**    |     |       |      |       |
-
-
-The datasets were manually annotated by four trained linguists. To ensure data quality, inter-rater agreement was calculated. 
-
-**Team**
-
-Voula Giouli, Aristotle University of Thessaloniki & ILSP, ATHENA Research Centre
-
-Stella Markantonatou, ILSP, ATHENA Research Centre
-
-Antonis Balas, Aristotle University of Thessaloniki
-
-Elina Zioga, Aristotle University of Thessaloniki
-
-Rodanna Konstantinidi, Aristotle University of Thessaloniki
-
-Elena Triantafyllidi, Aristotle University of Thessaloniki
+| Language | Dev | Train | Test | Total |
+| --- | ---: | ---: | ---: | ---: |
+| German (DE) | 805 | 6,443 | 806 | 8,054 |
+| Greek (EL) | — | — | — | — |
+| **Total** | — | — | — | — |
 
 
-**To cite this work**
 
+## Team
 
-TBD
+- Voula Giouli, Aristotle University of Thessaloniki
+- Stella Markantonatou, ATHENA RC
+- Antonis Balas, Aristotle University of Thessaloniki
+- Elina Zioga, Aristotle University of Thessaloniki
+- Rodanna Konstantinidi, Aristotle University of Thessaloniki
+- Elena Triantafyllidi, Aristotle University of Thessaloniki
 
+## To cite this work
 
-**Acknowledgements**
+If you use the corpus, please cite *Beyond Explicit Toxicity: A German–Greek Dataset for Implicit Toxic Speech Detection*, accepted to Findings of EACL 2027.
 
-This research was supported by the National Recovery and Resilience Plan (NRRP) “Greece 2000” under the ``Clusters of Research Excellence'' (CREs) program, SUB1.1, with project code \textgreek{ΟΠΣ ΤΑ 5180519} and title ``Interactive Agent with Emotional Intelligence for Second/Foreign Language Learning'', Acronym: ``EmoBot''.
+<!-- Add the official citation and ACL Anthology link once available. -->
 
+## Acknowledgments
+
+This work was supported by Greece’s National Recovery and Resilience Plan (NRRP), “Greece 2.0,” through the “Clusters of Research Excellence” (CREs) program (SUB1.1), under the project “Interactive Agent with Emotional Intelligence for Second/Foreign Language Learning” (EmoBot, project code ΟΠΣ ΤΑ 5180519). This work also received partial funding from the Special Account for Research Funds (ELKE) of Aristotle University of Thessaloniki.
