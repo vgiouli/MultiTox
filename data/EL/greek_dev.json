@@ -1,0 +1,4250 @@
+[
+   {
+      "text_id": "EL_000003",
+      "source": "GREEK_X",
+      "text": "Δεν είναι καταπληκτική η σύγκριση πωλήσεων του βιβλίου τσίπρα με τις πωλήσεις Χάρι Πότερ;\nΤο πρόβλημα είναι ότι αν στην πραγματική ζωή ψάχνεις θαυματοποιούς να σε σώσουν, τρως τα μούτρα σου.\nΤο άλλο πρόβλημα είναι ότι αυτός ο ξεδιάντροπος μάγος του κώλου πολιτεύεται.\n#παραμΙΘΑΚΗ https://t.co/5qQs68G6mb",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000016",
+      "source": "GREEK_X",
+      "text": "@LeonPalaiodimos Δεν είναι έτσι ακριβώς. Τα συρματοπλέγματα δεν μπήκαν στα περάσματα, αλλά κατά μήκος του Ριο Γκράντε, ώστε οι μετανάστες να διοχετεύονται στα 28 σημεία ελέγχου. Με τα συρματοπλέγματα το Τέξας θέλει να κόψει τις ανεξέλεγκτες εισροές από παντού που ευνοούν το οργανωμένο έγκλημα.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000019",
+      "source": "GREEK_X",
+      "text": "Δεν ξερω και δεν με νοιαζει😂😂😂αλλα οι Μπλε θα ειναι 4 και οι Κοκκινοι θα μεινουν 3😂😂😂😂😂Στα επαθλα εχει παντως σημασια😂 #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000025",
+      "source": "GREEK_X",
+      "text": "Πρωτοσέλιδο και στην \"A Bola\" ο Φώτης Ιωαννίδης για την Σπόρτινγκ, αναφέροντας ότι κοστίζει 20 εκατ. ευρώ, ποσό βέβαια που δεν ανταποκρίνεται στα \"θέλω\" του Παναθηναϊκού. https://t.co/0jZYs9QvGy ⚽️☘️\n#pao #paofc #panathinaikos #pao1908 #panathinaikosFC #Ioannidis",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000028",
+      "source": "GREEK_X",
+      "text": "Στο κρεμασμένου το σπίτι δεν μιλάνε για σχοινί. Είμαστε με την επιστήμη, την φύση, την ηθική. Είμαστε με την Εκκλησία. \n\n#γαμος_ομοφυλοφιλων #ΛΟΑΤΚΙ #ΠΑΣΟΚ",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000032",
+      "source": "GREEK_X",
+      "text": "για μπαράζ απειλών έκανε λόγο ο πρώην υπουργός αγροτικής ανάπτυξης, κατά την κατάθεσή του στην #εξεταστική για τον #οπεκεπε #λιβανος",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000045",
+      "source": "GREEK_X",
+      "text": "πορνοΛΟΑΤΚΙσμος =#pedophilia \n#γαμος_ομοφυλοφιλων #διαβολοκρατια #EpsteinIsland \nO ΛΟΑΤΚΙστης Γιαννης Παντής πέθανε αιφνιδίως τη μέρα που το νομοσχέδιο του ΣΥΡΙΖΑ για την κατάργηση του βιολογικών φύλων ψηφιζοταν στο ελεηνέζικο πουστοβούλιο",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000050",
+      "source": "GREEK_X",
+      "text": "Ζωή: ναα σας ρωτήσω: \nπως λένε τον δικηγόρο σας ..?\n-Δεν θυμάμαι ..\nΖωή: δεν θυμάσαι η\" δεν θέλεις να απαντήσεις??\n- θέλω να απαντήσω αλλά δε θυμάμαι..🥳\n#ΝΔ_σκανδαλα\n#φραπές",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000057",
+      "source": "GREEK_X",
+      "text": "Η Ακρόπολη του αθλητισμού είναι μια\nΚαι η Ακρόπολη είναι στην Αθήνα \n\nΑυτά για τους τρουμπαιους, που δεν τους αρέσει ΚΑΝ η καταγωγή τους🇺🇲\n\nπανΑΘΗΝΑικος🏛☘️\n#paofc https://t.co/ZduBYsmrAx",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000069",
+      "source": "GREEK_X",
+      "text": "#survivorGR όλοι με ένα σορτσάκι και κατι σχισμενες μπλούζες και η κατερινουλα αλλά πριν αλλά.μετα .κάθε μέρα και αλλά.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000091",
+      "source": "GREEK_X",
+      "text": "#εξεταστικη ερώτηση απάντηση δεν απαντώ επικαλουμαι το δικαίωμα της σιωπής μετά από λίγο ας κάνω άλλες 10 ερωτήσεις απάντηση ```````",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000109",
+      "source": "GREEK_X",
+      "text": "Μαζέψτε τους αγράμματους δεξιούς, έχουν ξεφύγει #γαμος_ομοφυλοφιλων #γαμος_ομοφυλων https://t.co/aaiSuXmfBo",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000128",
+      "source": "GREEK_X",
+      "text": "όχι φίλε. σκουπίδια είναι όλοι όσοι ψηφίζουν νόμους μαζί με τη νδ. μακεδονία, μνημόνια, μετανάστες, λιγνίτη, πράσινη χούντα, εμβολιαστική χούντα... όλοι αυτοί είναι ενα. όλοι αυτοί είναι σκουπίδια.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000150",
+      "source": "GREEK_X",
+      "text": "#Τσιπρας για #Δομαζο «Δεν ήταν απλά ένας μεγάλος ποδοσφαιριστής, ήταν μύθος»\nhttps://t.co/P5GKZMIT9o",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000167",
+      "source": "GREEK_X",
+      "text": "από πότε τους βάφτιζαν μάξιμους? νόμιζα ότι ήταν κόλλημα των τελευταίων ετών μόνο! 🤔😎 #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000191",
+      "source": "GREEK_X",
+      "text": "πραγματικα oλα τα ζευγαρια αποψε.....μια αποτυχια. χαχαχαχα! θα καταστρεψουν το project, δυσφημιση εκαναν στο ολο concent του #firstdatesgr!!! διοτι και οι τελευταιοι κωστας-ρουλα που ειπαν οτι θα εβγαιναν 2ο ραντεβου....σιγα μη βγουν....κ αν βγουν δε θα υπαρξει 3ο. αταιριαστοι.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000203",
+      "source": "GREEK_X",
+      "text": "στο στήσιμο πως πας λέει😂🤦‍♀️ ρε επίτηδες τα λέτε αυτά; #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000209",
+      "source": "GREEK_X",
+      "text": "πολύ γύφτος #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000212",
+      "source": "GREEK_X",
+      "text": "Την παρακμή που ζούμε σήμερα την περιέγραψε ο Αγγελόπουλος σε ταινία του :\n«Η Ελλάδα ΠΕΘΑΙΝΕΙ. Κάναμε τον κύκλο μας! Αν είναι να πεθάνει να γίνει ΓΡΗΓΟΡΑ. Γιατί η αγωνία κρατάει πολύ»\n#ΟΠΕΚΕΠΕ &amp; #φραπές συμπατριώτες…\n(«Το βλέμμα του Οδυσσέα»…)",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000241",
+      "source": "GREEK_X",
+      "text": "@Mirsini1946041 @Lexotanil__ Το θέμα μου εμένα ξέρεις ποιο είναι??. Η δεξιά κυβέρνηση και οι υποστηρικτές της μισούν οτιδήποτε έχει να κάνει με αλληλεγγύη είτε έχει να κάνει με φτωχούς, άστεγους, μετανάστες οτιδήποτε. Υπάρχει μια διαρκής στοχοποίηση και ειρωνία απέναντι στις καλές πράξεις.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000243",
+      "source": "GREEK_X",
+      "text": "#Κωνσταντοπούλου: Πόσο χρηαμτα εχετε παρει απο το ελληνικο δημόσιο τα τελ. 20 χρόνια;\nΜαγειριτσας: Τι σας νοιαζει πόσα εχω παρει;\n-----\nΕνας ΝΔκρατης που να μην ειναι \nα) ως το κοκκαλο λαμογιο κ \nβ) μπαμπουινος,\nκαι τι στον κοσμο.\n#εξεταστικη #μαγειριας",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000244",
+      "source": "GREEK_X",
+      "text": "Ρε παιδιά, επειδή δεν έχω διαβάσει το #παραμΙθακη του @atsipras κι ούτε πρόκειται, μήπως μπορεί να μου πει κάποιος που το διάβασε αν μέσα αναφέρει τι διάλο έκανε στο Παρίσι τότε που είχε πάει οικογενειακώς στα μουλωχτά με το πρωθυπουργικό αεροσκάφος;",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000246",
+      "source": "GREEK_X",
+      "text": "Η φασιστερα σήμερα στην Ελλάδα \n\n#τεμπη_εργαλειοποίηση \n#Τεμπη_Τυμβωρυχία https://t.co/co1TRa1f3u",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000272",
+      "source": "GREEK_X",
+      "text": "αφού την ανάγκασε να δώσει τηλέφωνο τι περιμένατε...παει τώρα να την αφήσει ξυπόλητη #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000280",
+      "source": "GREEK_X",
+      "text": "Όταν ήταν νέα, η μαμωνική σκατοψυχιά και η ταλμουδική αιμοβορία της, δεν είχαν προλάβει να χαραχθούν καλά στο πρόσωπο της.\nΤώρα, έγινε ίδια ο Μεφιστοφελής  \n#Nuland #Μητσοτακη_καθαρμα #γαμος_ομοφυλοφιλων #τεμπη_εγκλημα #ukronazis #IsraeliNewNazism #διαβολοκρατια",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Religious Bias"
+   },
+   {
+      "text_id": "EL_000284",
+      "source": "GREEK_X",
+      "text": "Κρήτη: Διασώθηκαν 42 μετανάστες από τη θάλασσα – Το πλοίο τους έκπεμψε σήμα κινδύνου https://t.co/FWN1NX0j5K #Thessaloniki #skg #TheOpinion",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000297",
+      "source": "GREEK_X",
+      "text": "Μοιάζει λίγο με Μαυρίκη  …πρωτοπαλίκαρο πατήρ Μητσοτάκη …. #φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000307",
+      "source": "GREEK_X",
+      "text": "Σε τέτοια ματς πετάς Φώτη, Βαγιαννίδη, Κώτσιρα στα πέναλτι και περνάς euro.\n\nΔεν πειράζει...\n\n#GEOGRE #ethnikiomada #paofc #olympiacosfc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000317",
+      "source": "GREEK_X",
+      "text": "Κασσελάκης: «Αντιδημοκρατικό μόρφωμα ο ΣΥΡΙΖΑ - Μεταβατικός πρόεδρος ο Φάμελλος»\n\n#Κασσελάκης #Φάμελλος #ΣΥΡΙΖΑ #Τσίπρας \n\nhttps://t.co/zo0uFGqkue",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000324",
+      "source": "GREEK_X",
+      "text": "βαλε στοιχημα με τους φαν του φανφαρανουρη κ θα γινεις πλουσια🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣#survivorGR #team_katsoulis #ΔΑΛΑΚΑ_ΜΟΝΟ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000325",
+      "source": "GREEK_X",
+      "text": "την παρασκευή θα με σιχαθείτε από τα εκατομμύρια ποστς σας το ορκίζομαι  #gntmgr https://t.co/whnRNFV5HH",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000334",
+      "source": "GREEK_X",
+      "text": "#οπεκεπε: μετά τις επιτυχημένες παραστάσεις της #σεμερτζιδου του #μαγειρια και του #χασαπη στην #εξεταστικη , σήμερα ειναι η μέρα του φραπέ . #κυβερνηση_μητσοτακη #μητσοτάκης #χαος_δαγκωτο #νδ_εγκληματικη_οργανωση #νδ_συμμορια #φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000338",
+      "source": "GREEK_X",
+      "text": "@PGPavlos Υπάρχει ελπίδα #ψεκια. Θα γυρίσει #braindrain εβρόπις🌈με ξεβλάχεμα #γαμος_ομοφυλόφιλων μιτου αριστεράς #Κασσελάκης-#Μητσοτάκης και το αριστεροδέξιο #41τακατο σούζα εγερθητω😂Μουμτζής ΚΚΕ γουστάρει και φεγγαρόφωτη #Δόμνα🤡#συνεδριο_ΣΥΡΙΖΑ @NikosMichailid4 https://t.co/noF1j1GoLo",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000346",
+      "source": "GREEK_X",
+      "text": "βλέπω πολλά ακάουντ εδώ στο #firstdatesgr που δεν με ακολουθάνε!",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000355",
+      "source": "GREEK_X",
+      "text": "Μαρία Καρυστιανού: Με μπάζωμα και συγκάλυψη της Αλήθειας,δεν ξανακερδίζετε την εμπιστοσύνη του λαού\nhttps://t.co/AgwV9FeAfN\n#τεμπη_εγκλημα #Τεμπη_εργαλειοποιηση #τεμπη_έγκλημα #τεμπη_συγκάλυψη #τεμπη_σκευωρια #δεν_εχω_οξυγονο #Καρυστιανου #καρυστιανού",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000362",
+      "source": "GREEK_X",
+      "text": "#νδ_εγκληματικη_οργανωση\n#Φραπες\nΣυνάντηση με εκπροσώπους του κλάδου της εστίασης από όλη την Ελλάδα είχε λέει\n ο ανηψιός, επειδη οι προκλήσεις που αντιμετωπίζουν είναι πολλές.\nΜε ποιά ιδιότητα τους συνάντησε? \nΣαν τί?\nΣαν ειδικός στο φαί?\nΠοιοί πήγαν εκεί και πως επιλέχτηκαν? https://t.co/K3ncVRJw0s",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_000367",
+      "source": "GREEK_X",
+      "text": "aynanizontai γιατι ειναι χαρουμενοι. οχι σαν εμας που χρωσταμε παντου και ειμαστε λυπημενοι... γερμανία: αφγανοί μετανάστες που αυνανίζονται στις γραμμές του τρένου σταμάτησαν την κυκλοφορία των τρένων στην περιοχή του κάσελ μέσω",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000373",
+      "source": "GREEK_X",
+      "text": "@MakisVoridis Μάκη,  έχεις καιρο να πας στο Κουκλες κλαμπ να ξεσκασεις και άνοιξες παλι το κουτακι με τις μαλακίες.\n#ΝΔ_ΞΕΦΤΙΛΕΣ #γαμος_ομοφυλοφιλων #τε",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000386",
+      "source": "GREEK_X",
+      "text": "τους #λαθρο τους φέρνουν οι εξωγήινοι μας λέει ο θα τα πούμε στις ευρωεκλογές που θα σας κάνουμε εμείς εξωγήινους.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000389",
+      "source": "GREEK_X",
+      "text": "Έχω πει δημόσια : Γεννήθηκα .. ανήκω και θα πεθάνω #νέαδημοκρατία ..!\nΑλλά εσείς κυρία Αποστολάκη δεν έχετε κανένα στοιχείο ότι είμαι νέα δημοκρατία .. \n#φραπές \n#ΝΔ_εκληματικη_οργανωση",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000398",
+      "source": "GREEK_X",
+      "text": "επινικι #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000405",
+      "source": "GREEK_X",
+      "text": "ΟΛΟΙ ΕΧΟΥΝ ΤΗΝ ΔΙΚΟΓΡΑΦΙΑ \nΕκτός απ την Κω/λου κ τον #Ρουτσι.\nΜόνο σ αυτούς δεν την έδωσαν \n#Τέμπη #Τέμπη_απατεώνες \n #antireport https://t.co/yHEffRRf4I",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000410",
+      "source": "GREEK_X",
+      "text": "Η τραγωδία έγινε όπλο πολιτικής εκμετάλλευσης. Τόσο για την αλήθεια…\n\n#τεμπη_εργαλειοποιηση https://t.co/psJVr0uCui",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000439",
+      "source": "GREEK_X",
+      "text": "Αυτό είναι το πραγματικό πρόσωπο των ακροδεξιών υποστηρικτών Μητσοτάκη,- θράσος, απατεωνιά, αλαζονεία.\n#εξεταστική https://t.co/BHGVtS5mHo",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000440",
+      "source": "GREEK_X",
+      "text": "@athinais15 @anti_ntalaoura 🤣 Ωραίοι ΄΄αριστεροί΄΄ είστε όσοι κολήσσατε σε #ΣΥΡΙΖΑ\nΟι πολίτες εκλέγουν τους βουλευτές Οι αριστεροί σέβονται δημοκρατικές διαδικασίες και κάλπη (Τετράγωνο κουτί με δημοκρατικό πρόσημο) \nΔε φιλάνε χέρια\nΣΣ #Τσιπρας παραιτήθηκε δεν τον στείλαν εξορία\nhttps://t.co/z6KxFeh2EH",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000444",
+      "source": "GREEK_X",
+      "text": "Τάνια Τσανακλίδου για Τέμπη: «Έγινε θηριώδης προσπάθεια συγκάλυψης από την αρχή»\n https://t.co/mqMAk76sfN #τεμπη_εγκλημα #Τεμπη_συγκαλυψη #τεμπη_έγκλημα #Τεμπη_δικαιωση #τεμπη_συγκάλυψη #τεμπη_εργαλειοποίηση #Τεμπη_σκευωρια #Δεν_Εχω_Οξυγονο #δεν_εχουμε_οξυγονο #δεν_έχω_οξυγόνο",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000448",
+      "source": "GREEK_X",
+      "text": "Πόσο ψεύτικη αυτή η Δαλάκα, ίσα που την ακούμπησε τη Δώρα. #survivorGR https://t.co/HXk6zOb5Ew",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000452",
+      "source": "GREEK_X",
+      "text": "αυτά που γίνονται μέσα στην #βουλη στη #εξεταστικη με τον #φραπε είναι τεράστια ντροπη.",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000454",
+      "source": "GREEK_X",
+      "text": "να φοβόμαστε να βγούμε απ'τα σπίτια μας #λαθρο",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000458",
+      "source": "GREEK_X",
+      "text": "Κάποιοι θα έλεγαν, ότι βρίσκεται σε εξέλιξη μια νέα \"δολ*φονία χαρακτήρα\".\n\nΕγώ βέβαια διαχωρίζω την θέση μου από την παραπάνω άποψη. #Τεμπη\n#τεμπη_εργαλειοποιηση #πλακιας https://t.co/p4i6dgjJST",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000468",
+      "source": "GREEK_X",
+      "text": "7 αιγυπτιοι βiασan ομαδικα 13χρονη στην ιταλία! τώρα είναι έξω από την πόρτα μας! σειρά θα έχουμε εμείς! οι κοπέλες σας, οι αδερφές σας κτλ. νδ, πασοκ σύριζα, κκε δεν θέλατε ? αποχή δεν θέλατε ? φάτε νομιμοποίηση λαθρο τώρα. #λαθρο #λαθρομεταναστες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000474",
+      "source": "GREEK_X",
+      "text": "Σαν σήμερα (27 Μαρτίου 2004) ο #paofc έρχεται ισόπαλος 2-2 με την ΑΕΚ στην Λεωφόρο (8.657 εισιτήρια) για τον 1ο αγώνα της ημιτελικής φάσης του Κυπέλλου Ελλάδας, σκόρερ οι Α.Μπασινάς (29') και Ε.Ολισαντέμπε (90'+3)\n#Panathinaikos https://t.co/yXm9Ft7wGs",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000477",
+      "source": "GREEK_X",
+      "text": "θεός φυλάξει από χαζό άσχημο κ με αυτοπεπfirstda άντρα 😝#firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_000479",
+      "source": "GREEK_X",
+      "text": "ο αυλωνίτης θέλει νομίζω πολύ να πάει στην πλεύση ελευθερίας στις επόμενες εκλογές. έτσι λέει η μαγική μου σφαίρα. 😂😂😂 #φραπες #εξεταστικη #νδ_εγκληματικη_οργανωση #αγροτες_μπλοκα #αγροτικα_μπλοκα #αγροτικες_κινητοποιησεις",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000490",
+      "source": "GREEK_X",
+      "text": "γαλλία:μια 7χρονη γαλλίδα βιάστηκε χθες το βράδυ στο trocadéro του παρισιού για το αποτρόπαιο έγκλημα συνελήφθη ένας τριαντάχρονος αφγανός μετανάστης. τα παιδιά δεν μπορούν καν να γιορτάσουν την πρωτοχρονιά χωρίς να υποστούν σεξουαλική επίθεση και βιασμό από εισαγόμενους #λαθρο",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000493",
+      "source": "GREEK_X",
+      "text": "Γκιουλέκα και τώρα οι 2 Μας.\nΚατερίνα Δαλακα #survivorGR 2024\n😂😂😂😂😂😂😂😂",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000516",
+      "source": "GREEK_X",
+      "text": "Αφού είχε θεοποιήσει κάτι Λακαφώσηδες &amp; ΣΙΑ ΟΕ, που έκαναν πειράματα με γκαζάκια &amp; άδεια ταψιά του μπακλαβά, τώρα πάει να απαξιώσει πορίσματα από καθηγητές, πανεπιστήμια &amp; την Πυροσβεστική.\nΛίγο ξυλόλιο να φύγουν οι καούρες. Κάνει θαύματα. #τεμπη #πλακιας \n#τεμπη_εργαλειοποιηση https://t.co/Y4BuhJ2shy",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000524",
+      "source": "GREEK_X",
+      "text": "Αμ δεν σε πιστέψαμε κυρ Λακαφώση μου....\nΜόνο κάτι βόιδια σε πιστέψανε και νόμιζαν ότι έκανε λαθρεμπόριο ο Κούλης για 10.000\n\n#τεμπη #Τεμπη_εργαλειοποιηση https://t.co/3dGtip8mjf",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000527",
+      "source": "GREEK_X",
+      "text": "Βορειοαφρικανοί μετανάστες επιτίθενται σε ανυπεράσπιστο ανάπηρο Γάλλο μαθητή. Δειλοί όπως πάντα. Χρειαζόμαστε μαζικές απελάσεις.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000001",
+      "source": "GREEK_X",
+      "text": "τι αγενεστατη γαϊδάρα ρε μαλακά .. #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000009",
+      "source": "GREEK_X",
+      "text": "γλύκανε μαρή λίγο ...... #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000012",
+      "source": "GREEK_X",
+      "text": "και γιατί πρέπει τα παιδιά να είναι σε διαλυμένα σπίτια; δε σου πέρασε από το μυαλό ότι το κράτος οφείλει να δημιουργεί καλές συνθήκες για να μπορούν οι έλληνες να κάνουν παιδιά; γιατί το κράτος σκέφτεται να λύσει το δημογραφικό με μετανάστες; γιατί έχει γραμμένους τους έλληνες;",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000031",
+      "source": "GREEK_X",
+      "text": "Γιατι η Δαλακα δεν στηριζει την Δωρα οεο???#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000036",
+      "source": "GREEK_X",
+      "text": "Πήλιο: Σοβαρό επεισόδιο ανάμεσα σε 25 μετανάστες https://t.co/YXdREzvbV6",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000059",
+      "source": "GREEK_X",
+      "text": "Πολύ τις χαίρομαι αυτές τις δυο γυναίκες,\nκυριολεκτικά κάνουν δωρεάν μάθημα αντιπολίτευσης στους υπόλοιπους 290* άχρηστους της Βουλής\n\n* οι εξαιρέσεις είναι ελάχιστες\n\n#εξεταστικη #οπεκεπε #αγροτες #αγροτες_μπλοκα \n#Κωνσταντοπούλου #Αποστολακη",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000076",
+      "source": "GREEK_X",
+      "text": "@in_gr Θα μας βρουν αγκαλιασμένες ....#τα_στημενα #Τεμπη_εργαλειοποιηση  #Τεμπη_συμμορια https://t.co/LDDxau5Jva",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000088",
+      "source": "GREEK_X",
+      "text": "Έλεος λες κ έκαναν την αποχώρηση οδύσσεια για να παραμείνει η κυρα δώρα … δεν κατάλαβα χάνεις φεύγεις …   #survivorGR",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000102",
+      "source": "GREEK_X",
+      "text": "ειναι κάτι βαθύτερο. η νέα ακροδεξιά έχει κάνει rebranding ως φίλη του ισραήλ με ακίνδυνα μηνύματα για τον αντισημιτισμό την ίδια στιγμή που δολοφονεί μετανάστες στα σύνορα της και στηρίζει γενοκτονίες.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000107",
+      "source": "GREEK_X",
+      "text": "αυτός έχει καβλώσει ...#firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000114",
+      "source": "GREEK_X",
+      "text": "Έκανα ένα ντοκιμαντέρ διάρκειας 20 λεπτών για τα σύνορα (τον περασμένο Ιούνιο). Παρακαλώ παρακολουθήστε το. Η συμπόνια και η ασφάλεια μπορούν να συνυπάρχουν. Τα ανοιχτά σύνορα δεν ωφελούν κανέναν — ούτε καν τους ίδιους τους μετανάστες. #Kennedy24",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000131",
+      "source": "GREEK_X",
+      "text": "Ο Φάνης πάει κοντά στον Παπαχαραλάμπους γιατί;\n\n#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000138",
+      "source": "GREEK_X",
+      "text": "@_SimonLeone #Τσιπρας ψάχνει το δρόμο της εξουσίας https://t.co/UuqVk0uIh4",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000139",
+      "source": "GREEK_X",
+      "text": "Κοσμοκαλόγερος: Συγκλονιστική εκτίμηση https://t.co/sPhE8DKkMv #γαμος_ομοφυλοφιλων #ομοφυλα #ιερα_συνοδος #λοατκι #Τεκνοθεσια",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000155",
+      "source": "GREEK_X",
+      "text": "🧺 ο φραπές της σιωπής #οπεκεπε #εξεταστική #φραπές",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000165",
+      "source": "GREEK_X",
+      "text": "Σε ποιο οργουελικό μυαλό θα βάλουν έναν μετανάστη στο οποίο στερούσαν όλα τα δικαιώματα στην Ελλάδα για χρόνια να μιλήσει για το δικαίωμα κάποιων που είναι μετανάστες αλλού με πλήρη δικαιώματα να τους μιλήσει για τη ψήφο στη χώρα που του φέρθηκε έτσι.\nhttps://t.co/5qtdQcdYjw",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000173",
+      "source": "GREEK_X",
+      "text": "Οι προκλητικές απαντήσεις του Γιώργου Ξυλούρη, γνωστού ως \"Φραπέ\" στην εξεταστική για τον ΟΠΕΚΕΠΕ. Το μουστάκι, ο Τζιτζής και οι ... φραπέδες \n\n#φραπες #οπεκεπε #πολιτικη #politics #vouli #news #greektiktok #tiktokgreece #tanea #taneagr #fyi https://t.co/jkt9mXlUSM",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_000189",
+      "source": "GREEK_X",
+      "text": "Μητροπολίτης Κισάμου για όσους υπερψήφισαν τον γάμο ομοφυλοφίλων: Δεν θα τιμώνται, ούτε θα προσκαλούνται σε γεγονότα της εν Εσπερία Κρήτη Εκκλησίας\n\n#γαμος_ομοφυλοφιλων  #βουλή https://t.co/E6kJJP1986",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000197",
+      "source": "GREEK_X",
+      "text": "Ρε παιδιά, το ξυλόλιο τί έγινε; Τελείωσε; Το ήπιαν όλο;\n#τεμπη_σκευωρια #τεμπη_εργαλειοποιηση",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000209",
+      "source": "GREEK_X",
+      "text": "Θεσσαλονίκη: Σύλληψη 32χρονου που μετέφερε παράνομα τέσσερις μετανάστες https://t.co/zolystY6f0",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000229",
+      "source": "GREEK_X",
+      "text": "Φώτης #Κουβέλης: Εγώ θα ευχόμουν ο Αλέξης #Τσίπρας να επιστρέψει σύντομα και να επανακάμψει πολύ δυναμικά, \nμε συγκεκριμένη πολιτική παρουσία στους κόλπους του #ΣΥΡΙΖΑ - Προοδευτική Συμμαχία.\n@syriza_gr @atsipras https://t.co/p8x3oGkUaj",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000231",
+      "source": "GREEK_X",
+      "text": "Οι εκπαιδευτικοί είναι μορφωμένοι (οι περισσότεροι) όποτε δεν κάνουν για γίδια #φραπες #χασαπης #ΝΔ_ΣΥΜΜΟΡΙΑ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000260",
+      "source": "GREEK_X",
+      "text": "Τι είπε για την πορεία του εξάστερου στην Ευρώπη ο Παπαθεοδώρου\nhttps://t.co/L1T3zilZJR\n#paopantou #paofc #panathinaikos #Panathinaikos #paobc #PanathinaikosFC #PanathimaikosBC #paoac #paovc #Panathinaikos1908 #Παναθηναικο #Χουαντσο #Ιωαννιδη #Σασα #Αταμαν #ΟΑΚΑ #Παπαπετρου",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000272",
+      "source": "GREEK_X",
+      "text": "Είναι όντως κρετινος ή υποκρίνεται τον κρετινο για να έχει ως προς ένα σημείο την απαλλαγή λόγω βλακείας ;;;\n#Παρακαταθήκη #Ιθακη #παραμΙΘΑΚΗ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000273",
+      "source": "GREEK_X",
+      "text": "Είδατε που λέγατε, πως κανείς δεν απολογείται ? \nΘα φωνάξουν τον Σπίρτζη... #τεμπη_εγκλημα https://t.co/sVxdBBalXg",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000296",
+      "source": "GREEK_X",
+      "text": "Μετανάστες μεταφέρονται από τους Καλούς Λιμένες στο Ηράκλειο Kρήτης\nhttps://t.co/yUGl553jup",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000307",
+      "source": "GREEK_X",
+      "text": "μ τι ασχολείσαι...... - είμαι μαμά ....... έλεος..... #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000331",
+      "source": "GREEK_X",
+      "text": "@Coda_22 @SilviLeoni @BavardeMargot Όταν κάποιος σου προσφέρει αμέσως δουλειά μόλις την ζητήσεις και ιδίως την δεκαετία του 60 που όλοι έφευγαν στο εξωτερικό για δουλειά μετανάστες, είναι πολύ μεγάλη στήριξη και την παίρνεις χωρίς καμμία τσίπα, για το τι έχει κάνει ο γιος σου στην κόρη του. Αυτό είναι gap!",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000334",
+      "source": "GREEK_X",
+      "text": "κι εγώ την είχα σε εκτίμηση μέχρι που είδα την...\"εξέτασή\" της στον μάρτυρα λάμπρο αντωνοπουλο του πασοκ. ντράπηκε και η ντροπή. #οπεκεπε #αποστολακη #εξεταστικη #πασοκ #νδ_εγκληματικη_οργανωση",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000338",
+      "source": "GREEK_X",
+      "text": "χειροπέδες σε άνδρα που έβαλε φωτιά σε ερειπωμένο κτίριο στο γιοχάνεσμπουργκ και έκαψε ζωντανούς 77 μετανάστες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000342",
+      "source": "GREEK_X",
+      "text": "ΜΗΝ\nΠΟΥΛΗΣΕΤΕ\nΤΟΝ\nΦΩΤΗ\nAνανεωση το καλοκαιρι με συμβολαιο 1εκ/χρονο μεχρι το 2029 ΧΘΕΣ\n#paofc #Panathinaikosfc #Panathinaikos",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000351",
+      "source": "GREEK_X",
+      "text": "Ποιος γιακουμακης....\nΜΕ ΗΓΕΤΗ ΤΟΝ μπακασετα ΔΕΝ ΠΑΣ ΠΟΥΘΕΝΑ....\n#paofc #paokfc #aekfc #OlympiacosFC",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000353",
+      "source": "GREEK_X",
+      "text": "Εμένα ρε μάνα γιατί μου πήρες δώρο παντόφλες γαμωτο; #ΟΠΕΚΕΠΕ #μαγειριας #Σεμερτζιδου #Ferrari #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000358",
+      "source": "GREEK_X",
+      "text": "Στην Εξεταστική για το #ΟΠΕΚΕΠΕ, ο Γιώργος #Ξυλουρης  («#Φραπές») επικαλέστηκε το δικαίωμα της σιωπής, αρνούμενος να απαντήσει σε κάθε ερώτηση. Η στάση του άναψε φωτιές στη Βουλή, με ΝΔ και αντιπολίτευση να συγκρούονται για την ουσία και τις ευθύνες της υπόθεσης https://t.co/mW201BpXac",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000362",
+      "source": "GREEK_X",
+      "text": "Η Δώρα αγαπήθηκε πάλι \n#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000377",
+      "source": "GREEK_X",
+      "text": "🟦 πηγές της νδ για την εξεταστική οπεκεπε: «στο κενό έπεσε η προσπάθεια για “γαλάζιο σκάνδαλο” – αποκαλύφθηκε πράσινο πλέγμα εταιρικών σχέσεων». ➡️ #οπεκεπε #νδ #εξεταστική #πολιτική #thriassiogr",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000378",
+      "source": "GREEK_X",
+      "text": "Ανατριχιαστικό βίντεο!🎥\nΗ χώρα σώθηκε επειδή ο αχρηστοτερος πρωθυπουργός στην Ιστορία της χώρας, κατάλαβε ότι θα δραπέτευε με ελικόπτερο μαζί με τα υπόλοιπα σκουπίδια🧐\n⬇️⬇️⬇️\n#παραμΙΘΑΚΗ https://t.co/E1pSyNKkcz",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000380",
+      "source": "GREEK_X",
+      "text": "τι διαβαζουν τα ματακια μου. τωρα γραφουν οτι η Σταυρουλα επαιζε με ανυποφορους πονος. πριν λιγο καιρο αλλα λεγανε. 😂😂😂😂😂 #survivorGR",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000399",
+      "source": "GREEK_X",
+      "text": "Φραστικό επεισόδιο Ζωής-Μαγειρία στην Εξεταστική: «Αρμέγετε το ελληνικό δημόσιο» -«Είστε “Πλεύση Λασπολογίας”»\n#Κωνσταντοπουλου #βουλη #εξεταστικη\nhttps://t.co/zFL9DIksr3",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000404",
+      "source": "GREEK_X",
+      "text": "Η Συρεκελα τι μουρμουραει στον προεδρο\n#Φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000420",
+      "source": "GREEK_X",
+      "text": "Τώρα εξηγείται το \"Ντάνι, λήξτο\". Μονος σκοπός η μονομαχία. Λογικό επακόλουθο του αγωνιστικού #survivorGR. Οπως σε όλα τα παιχνίδια ο παίκτης θα βρει το cheat. Το θέμα ειναι πως γι΄αυτο φέτος βλέπουμε όλα τα περίεργα: περίεργες ήττες, περίεργα ζευγάρια, αδιαφορία για τα φλαγκ...",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000421",
+      "source": "GREEK_X",
+      "text": "Εξαιρετικά επικίνδυνος ο Biden, οδηγεί τις ΗΠΑ σε εμφύλιο – Βράζουν Νότος και Τέξας για μετανάστες - Trump: Καταστροφή https://t.co/F8ZABIjQpf μέσω @bankingnewsgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000423",
+      "source": "GREEK_X",
+      "text": "@Krs_Demo Τι έγινε ξεφτίλα; Το σύμφωνο συμβίωσης, ο γάμος ομοφυλόφιλων, η συμπεριληπτικότητα, διάβασμα παραμυθιού από τραβεστί 🤮 δεν είχαν τα αποτέλεμα που θέλατε;\nΟ κόσμος θα σας μισεί ακόμα πιο πολύ πια, σιχάματα!\n#γαμος_ομοφυλοφιλων",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000424",
+      "source": "GREEK_X",
+      "text": "Δύο επιβατικές αμαξοστοιχίες, η μία μόλις είχε ξεκινήσει προς Αθήνα και η άλλη έφτανε στο σταθμό, βρέθηκαν στην ίδια γραμμή και κινδύνευσαν να συγκρουστούν. 41τακατο! #τεμπη_εγκλημα  https://t.co/ePWqenDIYo",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000445",
+      "source": "GREEK_X",
+      "text": "#firstdatesgr νίκος μουτσινάς: «η πρώτη μου φορά δεν ευδοκίμησε, ήταν με κοπέλα»",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000466",
+      "source": "GREEK_X",
+      "text": "Αυτό...\n#παραμΙΘΑΚΗ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000471",
+      "source": "GREEK_X",
+      "text": "μια κανονική ευρωπαϊκή χώρα ο εισαγγελέας θα είχε επέμβη ήδη από την πρώτη φορά που δεν εμφανίστηκε στην εξεταστική. στην ελλάδα σήμερα τα συστημικά μμε γράφουν ότι η νδ τον στέλνει στον εισαγγελέα. γελάνε και τα john deere τρακτέρ ανά την ύπαιθρο. #οπεκεπε #εξεταστικη",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000476",
+      "source": "GREEK_X",
+      "text": "@Sidiropoulos_gr Οι υποκλοπές επέφεραν μεγάλο πλήγμα στο προφίλ του \"προοδευτικού\", που προσπαθούσε να χτίσει.\nΓια τις υποκλοπές δεν μπορεί να κάνεις κάτι, οπότε κάνει για όλα τα άλλα: Μετανάστες, ΛΟΑΤΚΙ, Ελληνοτουρκικά,...",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000481",
+      "source": "GREEK_X",
+      "text": "Οι μεγάλοι αγώνες κερδίζονται με μεγάλους παίκτες. Έχει μια κατάρα. #paofc #EURO2024 #GEOGRE #ethnikiomada https://t.co/hhBg6XKWbW",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000485",
+      "source": "GREEK_X",
+      "text": "Στη δημόσια διαβούλευση του opengov κυριαρχούν αρνητικές απόψεις για #γαμος_ομοφυλοφιλων και υιοθεσία. Παρόλα αυτά οι δημοσκοπήσεις δείχνουν άλλα (50%-50%). Λέτε να είναι στημένες;   https://t.co/tE680JU2KG",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000487",
+      "source": "GREEK_X",
+      "text": "@Anonymo47917624 @Mayra48215384 @nprepalas Εσυ με αποκάλεσες ναζί . \nΕσυ βάζεις ταμπέλες \nΕσυ μισείς μετανάστες,γκει, γυναίκες \nΕγώ απλά καθρεφτίζω το χαλι σου",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000514",
+      "source": "GREEK_X",
+      "text": "δεν σε παρεξηγησε, εισαι διαχητικη! #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000521",
+      "source": "GREEK_X",
+      "text": "Κατερίνα Σακελλαροπούλου, ένα αχρείαστο γλέντι https://t.co/my7KYnuWjk #γαμος_ομοφυλοφιλων #ομοφυλα #ιερα_συνοδος #λοατκι #Τεκνοθεσια",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000529",
+      "source": "GREEK_X",
+      "text": "🙄...\"στου κωφού την πόρτα όσο θέλεις βρόντα\" κατάσταση, είναι αυτό που τρομάζει περισσότερο από όλα #λαθρο #τεκνοθεσια",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000530",
+      "source": "GREEK_X",
+      "text": "ΝΩΡΙΣ ΤΟ ΘΥΜΗΘΗΚΕΣ ΣΕΒΑΣΜΙΟΤΑΤΕ. Κατόπιν εορτής καλά κρασά. #γαμος_ομοφυλοφιλων\n\nΜητροπολίτης Πειραιώς Σεραφείμ: Θέτει εκτός Εκκλησίας τους βουλευτές που ψήφισαν «ναι» στον γάμο των ομόφυλων ζευγαριών https://t.co/5aPeiSqCbD",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000005",
+      "source": "GREEK_X",
+      "text": "επικριτικό έναντι της μετανάστευσης είναι και το αριστερό κόμμα της \"κόκκινης σάρα\" βάγκενκνεχτ που διέσπασε το die linke. στόχος, η πλαγιοκόπηση του #afd #γερμανια #μεταναστες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000015",
+      "source": "GREEK_X",
+      "text": "δυστυχώς προεκλογικό για τις ευρωεκλογές είχε γίνει με λίγες μέρες μετά τις εκλογές του 2019 αλλά μετά........ επιχείρηση για τους παράνομους μετανάστες με πάνω από 100 συλλήψεις στο κέντρο της αθήνας",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000030",
+      "source": "GREEK_X",
+      "text": "πως σας φάνηκε το ζευγάρι αυτό; #firstdatesgr #starchanneltv",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000031",
+      "source": "GREEK_X",
+      "text": "Μαζεύω φράγκα (έρανο) να στείλω 2 ζευγάρια ροζ στιβάνια στο #Φραπες και τον #Χασαπη \nΌσοι θέλετε να συνδράμετε 👇👇👇✅🙏\nΙΒΆΝ GR. #ΟΠΕΚΕΠΕ .Ellada 2.0 2.0 2.0 2.0",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_000044",
+      "source": "GREEK_X",
+      "text": "απο ποτε τελειωνει τοσο νωρις το #firstdatesgr? μικρυναν τα επεισοδια? γινεται ενω καποτε τελειωνε κοντα στις 23:00 πλεον να τελειωνει μιση ωρα νωριτερα?",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000047",
+      "source": "GREEK_X",
+      "text": "Τι καιρό κάνει στον Άγιο Δομίνικο;\nΕλπίζω η Δαλάκα κι η Δώρα να αντέξουν τα δύο παλτά\n#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000048",
+      "source": "GREEK_X",
+      "text": "Γελάει ο κόσμος. 762 σελίδες πολιτικού ντοκουμέντου που δεν αγγίζει την πραγματικότητα. #παραμΙΘΑΚΗ\n\nhttps://t.co/ixmrJ6zOkh",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000055",
+      "source": "GREEK_X",
+      "text": "η ιταλία έδωσε 650 εκατ.ευρώ στην αλβανία για 3.000 παράνομους μετανάστες – με 2.000 ευρώ το «κεφάλι» έρχεσαι νόμιμα στην ελλάδα",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000058",
+      "source": "GREEK_X",
+      "text": "A. Λατινοπούλου: «Ο γάμος δεν έγινε για να ντύνεται νύφη ο Μπάμπης»\n\n#γαμος_ομοφυλοφιλων  #βουλη https://t.co/WgCykMvqd2",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000062",
+      "source": "GREEK_X",
+      "text": "Θανάσης Μαυρίδης: Ο ακλόνητος Κυριάκος Μητσοτάκης  #Ysterografa #Υστερογραφα #αγροτες #αγροτικες_κινητοποιησεις #αγρότες #αγροτες_μπλοκα #τρακτερ #ΟΠΕΚΕΠΕ #σκανδαλο_ΟΠΕΚΕΠΕ #Εξεταστικη #Βουλη #φραπες #πρασινος_φραπες #χασαπης #Σεμερτζιδου #Μαγειρίας #Κοβεσι #σκανδαλα #ακροκεντρωοι #εκλογες #μεταναστες #μεταναστευτικο #ακρίβεια #Τεμπη #Τεμπη_τραγωδια #Τεμπη_εγκλημα #δεν_εχω_οξυγονο #Καρυστιανου #Μαρια_Καρυστιανου #Καραμανλης #Σαμαρας #Δενδιας #Μητσοτακης #Τσιπρας #Ιθακη https://t.co/INyAQt9WuV",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000095",
+      "source": "GREEK_X",
+      "text": "#βουλή #εξεταστική για #οπεκεπε- ελ. #αυγενάκης: όταν το φως πέφτει παντού, η αλήθεια δεν χρειάζεται υπερασπιστές, μόνο ανθρώπους που τολμούν να την πουν",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000108",
+      "source": "GREEK_X",
+      "text": "Γιατί βρε Δώρα δεν έκανες τέτοιες βολές απέναντι και στον Ταξίδη στο αμέσως προηγούμενο ραν; Θα είχε πιο πολλή πλάκα. Τέλος πάντων, σε συγχωρώ.Για όσους λένε ότι έχεις αδύναμο χαρακτήρα, ας καταλάβουν ότι μόνο αν έχεις πείσμα μπορείς να φτάσεις ως εδώ με το σπαθί σου. #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000114",
+      "source": "GREEK_X",
+      "text": "a, θα φταίνε οι πρόσφυγες και οι μετανάστες...",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000126",
+      "source": "GREEK_X",
+      "text": "@AkiriEleni Θα πας να δουλέψεις;;; Γιατί αυτός ακριβώς είναι ο λόγος που σου φέρνουν μετανάστες!!! Επίσης ο Κούλης σας δουλεύει ψιλό γαζί!! Προεκλογικά έλεγε αλλά και κάνει αλλά τώρα!!!🐑🐑🐑🤡🤡",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000127",
+      "source": "GREEK_X",
+      "text": "new post: μεγάλη επιχείρηση του κσεδ – εντοπίστηκε βάρκα με λιπόθυμους μετανάστες, σε κρίσιμη κατάσταση τρία παιδιά",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000134",
+      "source": "GREEK_X",
+      "text": "Εν το μεταξύ οι δεξιοί στρέιτ πάντα χρησιμοποιούν γκέι μπαμπάδες σαν παράδειγμα για κράξιμο, και όχι γκέι μαμάδες, γιατί καταβάθος ξέρουν ότι δεν υπάρχει τίποτα χειρότερο από έναν άντρα στον πλανήτη #γαμος_ομοφυλων #γαμος_ομοφυλοφιλων #λοατκι https://t.co/yaj7hPsRSh",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000137",
+      "source": "GREEK_X",
+      "text": "🧵1/2 κακοί μπάτσοι σκοτώνουν καλό αφρικανό νοικοκυραίο #λαθρο οικογενειάρχη . στην ελλάδα του 2024; όχι. στο νέο προωθητικό κλιπ νταλάρα #μαστορα της #ptanik συνεχιζει",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000143",
+      "source": "GREEK_X",
+      "text": "εισβολή από παράνομους μετανάστες επικαλείται. νερό στον μύλο του τραμπ είναι στην ουσία.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000157",
+      "source": "GREEK_X",
+      "text": "#firstdatesgr η ρουλα αποκλείεται να είναι από την αθήνα..",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000203",
+      "source": "GREEK_X",
+      "text": "Συντονιστείτε.\nΈχει part 2 \"σφαγής\" του κ. Τσίπρα @atsipras από τον κ. Λαφαζάνη @LafazanisP στους #Atairiastoi στον ΣΚΑΙ @SkaitvGR\n\n#παραμΙΘΑΚΗ #Τσιπρας #ΣΥΡΙΖΑ https://t.co/sL0Om6wbd1",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000205",
+      "source": "GREEK_X",
+      "text": "🤣🤣🤣🤣έτσι θα απαντάω και εγώ όταν θα με ρωτάει ο σύζυγος που χάλασα τα λεφτά...αυτή τη στιγμή ο #φραπες διδάσκει 🤣🤣🤣🤣🤣🤣#βουλη #εξεταστικη #οπεκεπε",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000209",
+      "source": "GREEK_X",
+      "text": "@McGionis Εδώ βέβαια δεν έχουμε αποδοχή και φροντίδα ακριβώς σε κάποιον αδύναμο αλλά σε κάποιον διαφορετικό. Πολύ περισσότερο διαφορετικό από τους σημερινούς μετανάστες. Υπήρχε διαφορά είδους. Οπότε μάλλον η αλληλεγγύη έχει βιολογική βάση στον άνθρωπο. Μιλάμε για πρωτόγονους κυνηγούς.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000217",
+      "source": "GREEK_X",
+      "text": "@documentonews Ρε ντενεκέδες εκεί στο βοθρο-documento δε βαρεθήκατε με τα #τεμπη_εργαλειοποιηση?",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000231",
+      "source": "GREEK_X",
+      "text": "εμφανίστηκε με υφος ψευτόμαγκα και καταλάβαμε τι κότα είναι ο φραπές σήμερα στην εξεταστική. νιώθω οργη και θέλω να ξεράσω με τα αποσπάσματα από την εξεταστική που κυκλοφορούν. οι γυναίκες της εξεταστικής επιτροπής είναι οι μοναδικές με κάκαλα #οπεκεπε #φραπες #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000233",
+      "source": "GREEK_X",
+      "text": "Σύμη: Καταδίωξη σκάφους με μετανάστες- Συνελήφθη ο διακινητής https://t.co/SFnJl0xN0C https://t.co/8I9mTLSBxv",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000243",
+      "source": "GREEK_X",
+      "text": "@NIKSOTIROPOYLOS Το αμόρφωτο τομάρι που αν το ρωτήσεις ποιες σχολές έχει το Πανεπιστήμιο Πατρών δεν ξέρει έπιασε τώρα τα Πανεπιστήμια και άφησε τους μετανάστες γιατί κάηκε το αφήγημα\nΣωτηρόπουλε το μόνο που ξέρεις απο την Πάτρα είναι το μπουρδέλο της μάνας σου\nΑσχολήσου με αυτό λοιπόν",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000259",
+      "source": "GREEK_X",
+      "text": "έτσι έλεγαν και για τον ιάσονα πως είχε ολόκληρη μκο και έβγαζε λεφτά από τους μετανάστες. μην τους πιστεύετε",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000273",
+      "source": "GREEK_X",
+      "text": "@androulakisnick Ρε γατοπαρδε ξέχασες να μας πεις για το «άγνωστο υγρό» που φώναζες ότι είχαν τα τρένα στα #τεμπη_εργαλειοποίηση . Και εσύ, που έχεις γίνει η ουρά της\nΚω/λου μήπως και πάρεις κανένα παραπάνω ποσοστό, θέλεις να μας σώσεις…..🖐️🖐️🖐️🖐️🖐️🖐️",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000274",
+      "source": "GREEK_X",
+      "text": "@TelosTaFroufrou @SpDapergolas Ναι, ειδικά όταν μέλη του ΚΚΕ έτρωγαν ξύλο υπεράσπιζομενοι τους σκλάβους μετανάστες στη μανωλαδα. Άσε μας ρε βλακα.",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000280",
+      "source": "GREEK_X",
+      "text": "αυτή την εβδομάδα, οι υπουργοί αγροτικής ανάπτυξης καταθέτουν στην εξεταστική για το σκάνδαλο οπεκεπε. δύσκολες στιγμές για την κυβέρνηση. 🍃 #οπεκεπε #αγροτες #σκανδαλο #εξεταστικη #κυβερνηση #ειδήσεις #news #greeknews",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000293",
+      "source": "GREEK_X",
+      "text": "Μάγκες νομίζω ότι Φραπές κατάντησε πιο αντιπαθής και από τον ΠουτΣιλα ρε σείς 😄#Φραπες #νδ_εγκληματικη_οργανωση",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000302",
+      "source": "GREEK_X",
+      "text": "Κομμούνια ναζί το ίδιο μαγαζί,σε ναζιστικές αντισυγκεντρώσεις μαζί \n#ΙΑΝΟΣ \n#τεμπη_εργαλειοποίηση",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000304",
+      "source": "GREEK_X",
+      "text": "Ο Ζήκος δεν έχει πιθανότητες να βρει στελέχη να τον εμπιστευτούν μετά τον κάζο που τους επιφύλασσε. Όμως απ ότι όλα δείχνουν θα κάνει χοντρό ταμείο! Αν πουλήσει 1 μυριο αντίτυπα θα τζιράρει 28 μυρια! Βέβαια αν έκανε την ίδια διαπραγμάτευση με το 15 πάλι μέσα θα μπει! #παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000319",
+      "source": "GREEK_X",
+      "text": "@AlexChalkiotis Της γνωστής Του έκανε μεταγραφή σε #ΣΥΡΙΖΑ ο ριζοσπάστης ΄΄αριστερός΄΄#Τσιπρας το 22\nΑνηψιός υπουργού #ΠΑΣΟΚ Β.#Κεδίκογλου,α΄ξάδελφος βουλευτή #ΝΔ Σίμου Β. Κεδίκογλου ΚΑΙ υφυπουργός #Σαμαρά 😂ΣΣ Δηλώνει και κατά των καταλήψεων Αλλά ΄΄δε λέει΄΄μπροστά σε παλτά #Ραγκουσης #Σπιρτζης",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000328",
+      "source": "GREEK_X",
+      "text": "Εντοπίστηκαν και διασώθηκαν 107 μετανάστες νότια της Γαύδου https://t.co/KXehagpnXK",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000329",
+      "source": "GREEK_X",
+      "text": "#ΚΟΣΜΟΣ Πράσινο φως από το Ανώτατο Δικαστήριο της Αλβανίας υπέρ της συμφωνίας με την Ιταλία για τους μετανάστες https://t.co/dRlTmmhFR2",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000338",
+      "source": "GREEK_X",
+      "text": "@CheetorPredacon Με αυτούς που εκμεταλλεύονται μόνο μετανάστες για να μαζευουν φράουλες για 1 ευρώ τη μέρα κ μετα τους πυροβολάνε κιολλας (Μανωλάδα) , συντάξεις ΟΓΑ κ επιδόματα, να εισαι με τον αγρότη Κυριάκο Μητσοτάκη που εχει ελιές και πάιρνει 8κ κάθε τόσο κ τους ομοιους τους, WEF τσιράκια",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000352",
+      "source": "GREEK_X",
+      "text": "Η ξεφτίλα του θέατρου που λέγεται #ευρωκοινοβούλιο κάτι σαν την #εξεταστική  στην εγχώρια #βουλή της αποικίας. Διαδηλωτές πετούν σαίτες κ φωνάζουν \"πές τε όχι!\" για τον νέο νόμο περί \"μεταναστών\". Η #εε κηρύσσει πια ανοιχτά τον πόλεμο στα έθνη κ τους πολίτες. #εισβολή #έλεγχος",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000364",
+      "source": "GREEK_X",
+      "text": "#εξεταστική για το σκάνδαλο #οπεκεπε παρακολουθήστε τους λόγους που ο πρώην υπουργός αγροτικής ανάπτυξης «νιώθει δικαιωμένος». #αυγενάκης #αγροτες #νδ #ομαδαμνημης #omadamnimis",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000371",
+      "source": "GREEK_X",
+      "text": "Και κάπως έτσι χτίστηκε το 36% που πήρε ο #Τσίπρας. \nΤο 33% που ψηφίσατε το #ΣΥΡΙΖΑ είσαστε λαμόγια. \nΤην ψήφο μας θέλανε αυτές οι κοπριές. \nΔεν μας υπολογίζανε. \nΚαι δεν θυμώνω με αυτούς. \nΤόσοι είναι!\nΜε μένα θυμώνω !\nΜην πω κάτι που δεν πρέπει. \nΚαληνύχτα σας! https://t.co/VpFr0EKBfP",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000374",
+      "source": "GREEK_X",
+      "text": "ο χθες η #εξεταστική σήμερα: #4journalism #reporter #οπεκεπε",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000382",
+      "source": "GREEK_X",
+      "text": "@blr1a1 Ο καθένας έχει τα δικά του δίκια και τα δικά του δύσκολα. Καταρχάς ότι γράφει για την Αουρόρα ισχύει για όλους τους ελληνες μετανάστες και τους μετανάστες ανα τον κόσμο γενικότερα. Και παμε να αναφέρω μια ιστορία που δεν έχει παιδάκια και καθαρίστρια αλλα έχει αλλα στοιχεία που",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000389",
+      "source": "GREEK_X",
+      "text": "Μετανάστες από Αφρική και Ασία μαζί με ακροαριστερές οργανώσεις και ΛΟΑΤΚΙ διαδήλωσαν στην Βιέννη κατά των πατριωτικών κομμάτων https://t.co/wxOA2UPaKL",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000391",
+      "source": "GREEK_X",
+      "text": "Συγκινητικό! Είμαστε ενωμένοι και όλοι μαζί σε αυτό. \n\nΠαραγωγοί και αγρότες μοίρασαν προϊόντα σε πολίτες στα «Πράσινα Φανάρια» για να ζητήσουν συγγνώμη για την ταλαιπωρία. \n\n#ΝΔ_ΣΥΜΜΟΡΙΑ #ΜΠΛΟΚΑ #αγροτες_μπλοκα #Φραπες #ΟΠΕΚΕΠΕ https://t.co/2SVcdb4LrY",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000396",
+      "source": "GREEK_X",
+      "text": "Η Ιταλία έδωσε 650 εκατ.ευρώ στην Αλβανία για 3.000 παράνομους μετανάστες – Με 2.000 ευρώ το «κεφάλι» έρχεσαι νόμιμα στην Ελλάδα https://t.co/XBTgK2dvmn",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000405",
+      "source": "GREEK_X",
+      "text": "Οι άντρες παραπονιούνται για τα πάντα, επικαλούνται τραυματισμούς, οι γυναίκες καθόλου παρ όλο που έχουν έργο πιο δυσκολο (αν εξαιρέσεις τη Ρούλα και τη Χρύσα)\nΕίναι #survivorGR για σύκα το φετινό",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000406",
+      "source": "GREEK_X",
+      "text": "@romanb198 Φαντασου μπουκαρα 6.000.000 παρανομοι μεταναστες σε 3 χρονια και πανε να προκαλεσουν εμφυλιο\n\nΔηλαδη για το 1.8% του πληθυσμου των ΗΠΑ",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000410",
+      "source": "GREEK_X",
+      "text": "Μια #παραμΙΘΑΚΗ που μας κόστισε πανάκριβα, τώρα και σε τόμο 762 σελίδων.\n\nhttps://t.co/rAO1HqYeWU",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000423",
+      "source": "GREEK_X",
+      "text": "Μπράβο ρε Δώρα! Μπράβοοοο! Συγκλονιστική! Υπέροχη σε απόδοση! 👏👏👏👏👏👏  #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000447",
+      "source": "GREEK_X",
+      "text": "@Kouti_Pandoras Τα #τεμπη_εργαλειοποίηση λέτε;",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000454",
+      "source": "GREEK_X",
+      "text": "ισχυει οτι ο #φραπές στην #εξεταστικη για τον #οπεκεπε απαντουσε μονο στις ερωτησεις που του εκανε η #νδ_εγκληματικη_οργανωση;",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000456",
+      "source": "GREEK_X",
+      "text": "Τι καταγγέλλει ο βουλευτής της ΝΔ #Mynewsgr\n\nhttps://t.co/qo8S7y0jy8 #ΝΔ #γαμος_ομοφυλοφιλων #γαμος_ομοφυλων #Σιμοπουλος #Θεσσαλονικη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000460",
+      "source": "GREEK_X",
+      "text": "Όχι που δεν θα το εκανε.\nΆντε να κυβερνήσει και την ΕΕ μέσω γερμανιας.\nΤο έλεγα εδώ και χρόνια ότι η Γερμανία θα έχει πρόβλημα με τους Τούρκους (και τώρα τελευταία και με άλλους μετανάστες).\nhttps://t.co/4o9MgqsoQ2",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000462",
+      "source": "GREEK_X",
+      "text": "#αγροτες_μπλοκα\n#Φραπες\n#οπεκεπε \n\nΌχι εκφράσεις λέει ο φραπές \n\nΕνώ λένε τα τηλεφωνήματα του \n\nΑχαχαχαχχαχαχαχαχαχαχαχχαχαχα",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000476",
+      "source": "GREEK_X",
+      "text": "Μη σκάτε ρε σύντροφοι. \nΜέσα στο 2025 θα επιστρέψει ο #Τσιπρας και θα φέρει περισσότερους λαθρομετανάστες στην Ελλάδα από τον Κούλη κι έτσι θα περνάμε καλύτερα: θα έχουμε περισσότερες δουλειές, λεφτά, ταξίδια, μπουζούκια κ.τ.λ.\n\nΆντε #καλη_χρονια, ηλίθια βοθρολύματα.\n\n#συνταγμα",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000482",
+      "source": "GREEK_X",
+      "text": "Το \"σκισμένο καλσόν\" της μίας γίνεται αντικείμενο συζήτησης από την εξεταστική επιτροπή. Η απειλή κατά της ζωής της άλλης είναι υποδεέστερης σημασίας...  #οπεκεπε, #φραπές",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000487",
+      "source": "GREEK_X",
+      "text": "Ξέρει κανείς πόσα χρόνια θα χρειαστούν για να φτάσει η δικογραφία από τη Βουλή στον εισαγγελέα για να κληθεί ο #Φραπες ;\n😂😂",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000489",
+      "source": "GREEK_X",
+      "text": "ο #φραπες μας λέει ότι το κοπελι ο γιος του οδηγεί porsche και είναι 25 χρονών. #εξεταστικη",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000492",
+      "source": "GREEK_X",
+      "text": "#Φαρμακονήσι: Τέσσερις αγνοούμενοι σε ναυάγιο με #μετανάστες https://t.co/Q9PRBVqO22",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000493",
+      "source": "GREEK_X",
+      "text": "Ο Αλέξης #Τσίπρας ζητά για τα εθνικά θέματα «νέα εθνική στρατηγική πριν είναι αργά» https://t.co/aa5WZFYF7f",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000513",
+      "source": "GREEK_X",
+      "text": "Οποιος εχει το πενθομετρο να το εχει για τον εαυτο.\nΑφηστε τον κοσμο ησυχο.κ αφηστε ησυχους κ εμας.\nΟσο χτυπιεστε να αποδείξετε κ να υποδείξετε την γνωμη σας/μας κ την ζωη σας/μας αποτυγχάνετε.\nΤον γνωριζουμε τον πλανητη.εδω ζουμε.\n#Toprwino\n#ρουτσι\n#Τεμπη_εγκλημα \n#καρυστιανού",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000518",
+      "source": "GREEK_X",
+      "text": "καλυτερα π δεν ταιριάξατε λειλα τι να το νκάνεις αυτον τον loser καραγκιοζη? #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000546",
+      "source": "GREEK_X",
+      "text": "Βίντεο: Ρομπότ διανομής βγαίνει εκτός ελέγχου και τα κάνει «γυαλιά-καρφιά» σε δρόμο του Σικάγο https://t.co/N8TesppVpK #25η_Μαρτιου_1821 #nyxtaapokalypseon #survivorGR #ΧρονιαΠολλα #σεισμος #Μαντισα #εθνος #Τασουλας #επανασταση #Το1981 https://t.co/C317LjtBbH",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000548",
+      "source": "GREEK_X",
+      "text": "#survivorGR νομιζω η Δωρα εχει ανεβασει πιεση η γυναικα..",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000610",
+      "source": "GREEK_X",
+      "text": "απευθείας από την εξεταστική της βουλής. τι νέτφλιξ και μαλακίες. #φραπες #οπεκεπε #εξεταστικη #κωνσταντοπουλου #μητσοτακης #νδ_εγκληματικη_οργανωση #νδ_συμμορια #νδ_σκανδαλα",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000626",
+      "source": "GREEK_X",
+      "text": "η ευρώπη και οι ηπα βιώνουν τα ίδια πράγματα πλημμυρισμένοι από μετανάστες η κυριαρχία δίνεται στους γραφειοκράτες δισεκατομμύρια δόθηκαν για την ..κλιματική κρίση δισεκατομμύρια δόθηκαν για έναν ξένο πόλεμο στην ουκρανία πληρώνουμε την καταστροφή μας!",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000636",
+      "source": "GREEK_X",
+      "text": "Υποβόσκουσα κατήχηση μεσημερι σε παιδιά από τουρκο-#σκαι_ξεφτιλες #mystylerocks. Τι έχει να μάθουν μοντέλα σε θινκ(μην το κάψετε) τανκ #γαμος_ομοφυλοφιλων @pdiafimisewn; Για #grooming ψήφισε #Μητσοτάκης🌈#Κασσελάκης κι όχι για κουφέτα😉#shoppingstar #Γαβαλας #τεκνοθεσία #SkaitvGR https://t.co/cThWM5Uf3t",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000644",
+      "source": "GREEK_X",
+      "text": "μόνο όσοι είναι νέα δημοκρατία και παίρνουν αποζημιώσεις από τον οπεκεπε κερδίζουν το λαχείο, το τζόκερ και το κινο και μάλιστα όχι μόνο μια φορά. αυτό είναι πλέον ένα αξίωμα που όλοι οι έλληνες πρέπει να ξέρουμε. #σεμερτζίδου #εξεταστική #οπεκεπε #νδ_σκάνδαλα",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000650",
+      "source": "GREEK_X",
+      "text": "«θέατρο» η eξεταστική για τον οπεκεπε - ξέφυγε στον «φραπέ» γιατί επικαλείται το «δικαίωμα σιωπής» 👉🔗 #ingr #ξυλουρης #οπεκεπε #εξεταστικη",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000670",
+      "source": "GREEK_X",
+      "text": "βαρεμάρα αν δεν σχολιάζει κανίς 🤔#firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000671",
+      "source": "GREEK_X",
+      "text": "στην εξεταστική της βουλής ο #φραπέ ήταν ο ορισμός του \"σας γράφω στα αρχιδια μου και σας δουλεύω κι από πάνω γιατί έχω πλατες..\" εν ολίγοις, \"δε μπα να ρωτάτε, θα μου κλασετε μια μάντρα.. #οπεκεπε #ξυλουρης #πορσε #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000676",
+      "source": "GREEK_X",
+      "text": "Ποια \"πρόοδος\" βρε αποτυχημένοι άχρηστοι, που έχετε κάψει, εξαθλιωσει, δολοφονήσει, φτωχοποιησει την ελληνική κοινωνία. Στο μεταξύ τα καρτέλ συνεχίζουν την αισχροκέρδεια κι εσείς πλουτίζεται εις βάρος ενός λαού.\n#pass \n#φωτιες2023\n #Τεμπη\n#Πυλος\n#πανδημια https://t.co/IPiiAUmizr",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000684",
+      "source": "GREEK_X",
+      "text": "Καλά βρες μια φωτό με τον Άχαστο να μην χάνει και να χρησιμοποιεί υπολογιστή και τα ξαναλέμε #τσίπρας #τενεκές",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000705",
+      "source": "GREEK_X",
+      "text": "Άθλιοι, αλιβάνιστοι &amp; βαλτοί! Ο #ΣΚΑΙ σε εντεταλμένη υπηρεσία επιδίδεται σε τηλεοπτικό μπούλινγκ σε βάρος της Εκκλησίας &amp; των Μητροπολιτών που αντιδρούν για τον #γαμος_ομοφυλοφιλων ζητώντας από τον #Ιερώνυμο να βάλει στη θέση του τους αντιδρώντες, όπως έκανε επί Covid &amp; εμβολίων! https://t.co/gV2BcD5Z3w",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Religious Bias"
+   },
+   {
+      "text_id": "EL_000719",
+      "source": "GREEK_X",
+      "text": "@ax_koula εσύ θεωρείς πρόβλημα τους μετανάστες. Εγώ όχι.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000720",
+      "source": "GREEK_X",
+      "text": "μάλλον το κοκτέιλ την πειραξε..🤣🤣🤣#firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000731",
+      "source": "GREEK_X",
+      "text": "Κοράκιασε..\n#Φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000732",
+      "source": "GREEK_X",
+      "text": "περισσότεροι από 100.000 μετανάστες πέρασαν από τη σερβία το 2023",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000746",
+      "source": "GREEK_X",
+      "text": "άργησαν και τα μαχαιρώματα από τους εργάτες γης σε γυναίκες στο κέντρο της αθήνας #λαθρο #ισλαμ",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000759",
+      "source": "GREEK_X",
+      "text": "Η… δεύτερη ευκαιρία που διεκδικεί ο Τσίπρας (από το πεπρωμένο του) #Τσιπρας \n https://t.co/lR27PhBpTo",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000766",
+      "source": "GREEK_X",
+      "text": "ΟΤΑΝ ΤΑ ΕΛΕΓΑ ΚΑΠΟΙΟΙ ΕΚΡΑΖΑΝ \n#paofc\n#aekfc\n#olympiacosfc\n#ethnikiomada",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000785",
+      "source": "GREEK_X",
+      "text": "Που είναι ένας γελοίος αταξικος δικαιωματιστης να τον χέσω κανονικά;\nΦέρτε μου έναν γαμημενο να μου πει ότι αυτή η σηψη είναι επιλογή 🤬\n#ΚΚΕ #γαμος_ομοφυλοφιλων\n#Τεκνοθεσια #παρενθετη #μητροτητα #πατροτητα https://t.co/G7SlZ8KXNl",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000801",
+      "source": "GREEK_X",
+      "text": "#Φραπες\n\nΤων έχει πάει πίπα κωλο η ζωή",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000804",
+      "source": "GREEK_X",
+      "text": "εκκληση βιομηχάνων στην κυβέρνηση: φέρτε μετανάστες για τις 90.000 κενές θέσεις εργασίας -",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000820",
+      "source": "GREEK_X",
+      "text": "ακόμα βλέπουμε την αμαζόνα, ωιμέ!! #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_000832",
+      "source": "GREEK_X",
+      "text": "\" Πριν ψηφίσετε, διερωτηθήκατε τι σύγχυση θα υπάρχει μέσα στο μυαλό των παιδιών που θα αγοραστούν για υιοθεσία; \"\n\n#γαμος_ομοφυλοφιλων  #βουλή \n\n▶️https://t.co/AwUZKxDYiR",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000845",
+      "source": "GREEK_X",
+      "text": "Με τέτοια μανία που θίγεται ο Λιάγκας όταν κάποιος προσβάλει τους πούστηδες, θα μπορούσε κάποιος κακοπροαίρετος να υποθέσει ότι έχει μια αδυναμία στο ανδρικό φύλο\n\nΠούστη αμόρφωτε Λιάγκα θα μάθεις να σέβεσαι την ελληνική εκκλησία και τη φύση\n#Λιάγκας #γαμος_ομοφυλοφιλων #ΛΟΑΤΚΙ https://t.co/fMiWzmz7Si",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000846",
+      "source": "GREEK_X",
+      "text": "REPORTAZ NET: Αποκλεισμένοι στη Γαύδο 74 μετανάστες - Ανάμεσά το... https://t.co/TIvZtCoj9r",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000855",
+      "source": "GREEK_X",
+      "text": "Τί μου έρχεται στο μυαλό, όταν ακούω την λέξη «Κουραδόμαγκας» #Φραπες https://t.co/Kb6gv5eMQE",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000859",
+      "source": "GREEK_X",
+      "text": "πως φαίνεται η κλασσική παιδεία....#firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000869",
+      "source": "GREEK_X",
+      "text": "Γιώργος Γερολυμάτος: «Ένα παιδί δεν μπορεί να μεγαλώσει ανάμεσα σε δύο άντρες ή δύο γυναίκες. Η λέξη μάνα δεν αντικαθίσταται»\n\n#γαμος_ομοφυλοφιλων  #Αριστοτέλους https://t.co/TOPqF44OOQ",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000878",
+      "source": "GREEK_X",
+      "text": "Ρε Αλέκο! Ρε Αλέκο ! Τρέξτε στραβάδια να αγοράσετε το άρλεκιν του αστοιχείωτου ! Ένας δεν βρέθηκε να το διορθώσει; Αφού δεν το 'χει ο Αλέκος με τη γεωγραφία, (δεν το 'χει γενικώς δηλαδή), όλοι αγράμματοι γύρω του ; Ρίγα της Εσθονίας ρε @atsipras ; \n#παραμΙθακη",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000881",
+      "source": "GREEK_X",
+      "text": "Πάρτε εδώ έναν παλικαρά ωρέ που ορκίζεται και στα παιδιά του. \n#Φραπες #οπεκεπε https://t.co/wXgzvvv8kX",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_000882",
+      "source": "GREEK_X",
+      "text": "Η απεργία πείνας του #Ρουτσι μου θυμίζει την δίαιτα με τα κεράσια: Τρως τα πάντα εκτός από κερασια",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000889",
+      "source": "GREEK_X",
+      "text": "Φοβερός βολευτείς αυτός ο @AlexanKazamias της ΠΛΕΥΣΗΣ \nΚάθε φορά που η BROεδρας γουστάρει καυγά τον πετάει από την #εξεταστικη σαν την τρίχα από το ζυμάρι. 😂😂",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_000892",
+      "source": "GREEK_X",
+      "text": "#θεμελιώδες αξιωμα νο2 ζηλεύεις μόνο όταν γνωριζεις ότι υστερεις. #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_000924",
+      "source": "GREEK_X",
+      "text": "ευχαριστούμε #firstdatesgr για τις επαναλήψεις. έχω κατουρηθει",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000943",
+      "source": "GREEK_X",
+      "text": "το ότι η #σεμερτζίδου αποτέλεσε είδωλο για τους δεξιούς και το ότι αυτό το είδωλο κατέρρευσε μέσα τους μόλις αυτή εμφανίστηκε άβαφη στην #εξεταστική για τον #οπεκεπε, δείχνουν ακριβώς τι θα πει δεξιός. 😎",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000954",
+      "source": "GREEK_X",
+      "text": "#εξεταστικη #οπεκεπε #φραπες ελλαδα 2.0 επί διακυβέρνησης #μητσοτακης \"...αποστολάκη ο κ. ξυλουρης θα πρέπει να μας απαντήσει τι σχέσεις έχει ο αδελφός του με την οικογένεια #μητσοτάκη ποιος πάντρεψε τον μανώλη #ξυλουρη μετακινούμενος με ελικόπτερο..\"",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_000962",
+      "source": "GREEK_X",
+      "text": "🪙 Η σιωπή είναι χρυσός #ΟΠΕΚΕΠΕ #Φραπες https://t.co/LkvBfHbEXL via @YouTube",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000974",
+      "source": "GREEK_X",
+      "text": "Διαβάστε την σε καλύτερη φωτό...στο μέλλον μπορεί να την διδασκόμαστε!\nΣτρατιωτικός νόμος-Διακηρυξη TEXAS.Εγκαλει Μπάιντεν για αμελή φύλαξη και καταπάτηση συνόρων καθώς πάνω από 6.000.000 παράνομοι μετανάστες πέρασαν τα σύνορα,βάση άρθρου του Συντάγματος. https://t.co/qw1aeBkhJj",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_000979",
+      "source": "GREEK_X",
+      "text": "Εδώ δεν χωράνε οπαδικά.Φυσικά στο πλευρό της #Κωνσταντοπουλου  απέναντι στην χυδαιότητα του #Φραπες και του κάθε μαφιόζου",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_000985",
+      "source": "GREEK_X",
+      "text": "Δεν υπάρχει μεγαλύτερη τιμή από το να ξέρεις πότε ΠΡΕΠΕΙ να φύγεις... Μακάρι τα αρχίδια του να τα είχαν κι άλλοι...\n\n#Τεμπη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000987",
+      "source": "GREEK_X",
+      "text": "#εξεταστικη #οπεκεπε #φραπες \"..τώρα που μπήκαν τα γίδια στο μαντρί & τα πρόβατα στη στρούγκα ι γιώργης δεν αγνάντεψε, δεν εφάνη να ροβολάει στη στάνη ρωτά-μωρέ, ρωτάτε τους τσοπάνηδες & τις τσοπανοπούλες βλάχους κι βλαχοπούλες μην ει-μωρέ, μην είδατε τον γιώργη;..\"",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000991",
+      "source": "GREEK_X",
+      "text": "Με νέα παρέμβαση του ο πρώην πρωθυπουργός Αλέξης #Τσίπρας επισημαίνει πως η πατρίδα οδηγείται στα βράχια κάνοντας λόγο για “καθεστώς” στο τιμόνι της χώρας κάνοντας λόγο για συστηματική διαστροφή των αξιών, της αλήθειας και ιστορικών γεγονότων.\n\nΟ πρώην πρωθυπουργός στον πρόλογο του βιβλίου του Γιάννη Μπαλάφα, πρώην βουλευτή και υπουργού του ΣΥΡΙΖΑ, με τίτλο «Η άνοδος, η πτώση, το αύριο. ΣΥΡΙΖΑ -ΠΣ. Το χρονικό 2012-2024», που παρουσιάζεται σήμερα, σημειώνει εμφατικά: «γίνονται πλέον κάθε μέρα όλο και πιο ορατά τα βράχια προς τα οποία η πατρίδα οδηγείται από το σημερινό καθεστώς. Βράχια οικονομικά, κοινωνικά, εθνικά, αξιακά. Κι αυτό στις σημερινές συνθήκες, που βλέπουμε να μετακινούνται βίαια οι τεκτονικές πλάκες της παγκόσμιας γεωστρατηγικής, εγκυμονεί τεράστιους κινδύνους, όχι μόνο για την οικονομία αλλά και για τη δημοκρατία στη χώρα, για τη θέση της στον κόσμο, ακόμα και για την ακεραιότητά της».\n@atsipras @ATsiprasInst\n⤵️\nhttps://t.co/37zcHbwEYw",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_000996",
+      "source": "GREEK_X",
+      "text": "Αυτός που μένει εκτός πρώτης μονομαχίας έχει μειονέκτημα #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001002",
+      "source": "GREEK_X",
+      "text": "Τελικά η βάση ήταν του @atsipras \n🤩\n#Τσιπρας #Ιθάκη \n#τσιπροταιμ https://t.co/u8FvdpRCvL",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001031",
+      "source": "GREEK_X",
+      "text": "Τσίπρας: Σφύριζα ένα ρεμπέτικο του Τσιτσάνη κατά τις κρίσιμες διαπραγματεύσεις στην Κομισιόν\n\nΗ χώρα βρίσκονταν στο χείλος του γκρεμού, κι αυτός ήταν εκτός τόπου και χρόνου....\n\n#ΠαραμΙθακη",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001035",
+      "source": "GREEK_X",
+      "text": "Σε στήριξα απ την πρώτη μερα που μπήκες..μου τα χαλασες (αρκετα κιόλας) τωρα στο τελος. Ομως προσωπικα θα μου λείψεις!\nΠετσοκοψες αρκετους και τους πηγές ταπα!\n\nΚαλή επιστροφή σκακιστή μου!♟️❣️\n#survivorGR https://t.co/bRzAvz9bDm",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001049",
+      "source": "GREEK_X",
+      "text": "σε ωρολογιακή βόμβα εξελίσσεται η γαύδος… - γράφει ο δημοσιογράφος αλέξανδρος τάρκας - #μεταναστες #μεταναστευτικο #αιγυπτος #σισι #τουρκια #ερντογαν #γαυδος #slpress -",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001053",
+      "source": "GREEK_X",
+      "text": "Η αρχική δήλωση στην #Εξεταστική για το σκάνδαλο #ΟΠΕΚΕΠΕ του παραγωγού - αγρότη, Χρήστου Μαγειρία (σύζυγος Σεμερτζίδου).  \n\n#Αγροτες #Μπλοκα #Μαγειριας #Σεμερτζιδου #ΟμαδαΜνημης #OmadaMnimis https://t.co/oyeSpKbygr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001061",
+      "source": "GREEK_X",
+      "text": "Προτείνω η επο να επανέλθει στον έλεγχο του Ολυμπιακού μας ,τουλαχιστον τότε πηγαίναμε σε μεγάλες διοργανώσεις \nΘα μαζέψω υπογραφές\n#OlympiacosFC\n#paofc\n#GEOGRE",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001068",
+      "source": "GREEK_X",
+      "text": "Τόσο πετυχημένο rebranding, ούτε μια στο εκατομμύριο να το πετύχει κάποιος άλλος!\n\n#παραμΙθακη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001071",
+      "source": "GREEK_X",
+      "text": "@RedNick07 @shmrck_1312 Ο ποδοσφαιρικός ΟΣΦΠ θα έπρεπε, όχι απλώς να έχει υποβιβαστεί στα τοπικά, αλλά να έχει διαλυθεί και οι ιδιοκτήτες του να είναι στη φυλακή, μαζί με τους πραιτωριανούς τους.\nΟΛΑ τα πρωταθλήματα του ΟΣΦΠ, από το 1996-97, έχουν τη σκιά της παράγκας. Ο ΟΣΦΠ το \"κατάφερε\" αυτό.\n#paofc",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001085",
+      "source": "GREEK_X",
+      "text": "@AnnaChatzisofia @g_evgenidis Δεν θέλουν να τα κάνουν Airbnb αλλά τα νοικιάζουν σε ΜΚΟ για μεταναστες.\nΤο airbnb είναι μόλις 21χιλ σπίτια περίπου σε όλη την Αττική....τόσα έδωσε η κυβέρνηση για δωρεαν στεγαση \"προσφύγων\" το 2016.\nΧρόνια τώρα η περιοχή λέγεται μικρο ισλαμαμπάντ, πρωην μεταξουργείο!",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001087",
+      "source": "GREEK_X",
+      "text": "«Τόν ἔσωσα, καί γυρίζει νά μέ πνίξει...»-Βουλευτής! https://t.co/ND717DB2IJ #γαμος_ομοφυλοφιλων #ομοφυλα #ιερα_συνοδος #λοατκι #Τεκνοθεσια",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001109",
+      "source": "GREEK_X",
+      "text": "@LiLa_Blonde_ Έχει ρε Ρουτσι, έχει. Να στήνει Αντισκηνα στο Σύνταγμα δεν έχει._",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001134",
+      "source": "GREEK_X",
+      "text": "Αφήνω αυτά εδώ, να έχουμε να γελάμε με το #παραμΙθακη\n\n7/2017\nΒαρουφάκης: «Να πάμε σε ειδικό δικαστήριο - Ο Τσίπρας ήταν έτοιμος να δεχθεί το Grexit του Σόιμπλε» - https://t.co/yaC7jBqf8G https://t.co/kJN2m7zbyZ",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001137",
+      "source": "GREEK_X",
+      "text": "Να προσθέσω υπενθυμίζοντας ότι θα ψηφίσουν έτσι πολλοί περισσότεροι απόδημοι που έχουν μηδενική σχέση με την Ελλάδα και την πολιτική της κατάσταση ενώ δεν μπορούν να ψηφίσουν οι μετανάστες που ζουν και εργάζονται εδώ για χρόνια.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001140",
+      "source": "GREEK_X",
+      "text": "Πείτε της λετζεντ να το βουλωσει!\nΌλο μαλακίες τιπς δίνει!\nΘα τον κάψει τον άλλον\n#survivorGR",
+      "toxicity": "Explicit",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001159",
+      "source": "GREEK_X",
+      "text": "#Φραπες\nΒρε σύντεκνε, αντί να πάρεις στο γιό ένα Ford ranger raptor,του πήρες Porsche!!\nΑφού δεν βάζει ούτε δύο σακιά ελιές!!!",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_001160",
+      "source": "GREEK_X",
+      "text": "15 + 5 κάνει μόνο το ένα του ποδι. \n #paofc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001169",
+      "source": "GREEK_X",
+      "text": "Η Μητρόπολη Κερκύρας έθεσε εκτός εκκλησίας βουλευτές του ΣΥΡΙΖΑ και του ΠΑΣΟΚ επειδή ψήφισαν για τα γάμους ομοφυλοφίλων!\nhttps://t.co/b8kvyd3mUy #γαμος_ομοφυλοφιλων https://t.co/Q3xqrjRlKQ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001173",
+      "source": "GREEK_X",
+      "text": "κουβέντες περί γάμου... #firstdatesgr #starchanneltv",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001174",
+      "source": "GREEK_X",
+      "text": "Περιμένουμε εργάτες από το Βιετνάμ.\nΑς γελάσω.\nΣε δέκα χρόνια οι Έλληνες θα πηγαίνουν μετανάστες στο Βιετνάμ.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001186",
+      "source": "GREEK_X",
+      "text": "@unicorn_anais @nikglykos Στο εξήγησα,δεν τον κατέβασε,όχι γιατί δεν ήθελε αλλά γιατί φοβήθηκε.\nΕίναι απλά ένας χεστης πρωθυπουργός που μέσα στον πανικό του απ' το χαστούκι που έφαγε απ' τον Πάνο Ρούτσι κάνει την μια μαλακία πίσω απ' την άλλη",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001195",
+      "source": "GREEK_X",
+      "text": "@smurfitos @paylopoulo46415 **μεταναστες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001196",
+      "source": "GREEK_X",
+      "text": "❗️ Τίνυ Κοξ: Ο #Τσίπρας θα άφηνε καλύτερο αποτύπωμα αν η ΕΕ του έδινε πιο δίκαιη συμφωνία!\n\n#ΣΥΡΙΖΑ\n\nhttps://t.co/8Lk2HlvZGD",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001203",
+      "source": "GREEK_X",
+      "text": "Ξανά βγήκε από το λαγούμι της η Απατεώνισσα των Τεμπων. Αφού μας μίλησε για τους Χαμαδες. Πλέον ένας ψυχίατρος της είναι χρήσιμος καθώς και ένας καλός δικηγόρος γι αυτά που θα έρθουν. Η σκύλευση των νεκρών θα πληρωθεί \n\n#τεμπη_εργαλειοποιηση \n#τεμπη_σκευωρια https://t.co/cumBXeVcZL",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001219",
+      "source": "GREEK_X",
+      "text": "@GreekAnalyst Έχω την εντύπωση πως οι περισσότερες δυτικές χώρες δίνουν επιδόματα για παιδιά αλλά δεν έχουν βελτιώσει ιδιαίτερα την κατάσταση του δημογραφικού. Παιδιά κάνουν κυρίως οι μετανάστες από φτωχότερες χώρες.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001226",
+      "source": "GREEK_X",
+      "text": "Σύμφωνα με το μέγεθος της βάρκας ενδέχεται σε αυτή να επέβαιναν μέχρι και 40 άτομα.\nΛέσβος: Παρά τη φουρτούνα, βάρκα με μετανάστες – πρόσφυγες βγήκε στην Βαρειά (video) https://t.co/w1Gg5tybtF",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001230",
+      "source": "GREEK_X",
+      "text": "νέες καραβιές θα έρθουν στην χώρα μας-η ένωση βιομηχάνων ζητά μετανάστες από τρίτες χώρες για 90.000 κενές θέσεις εργασίας",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001235",
+      "source": "GREEK_X",
+      "text": "@GiannisThem21 @mariathena @argia1553 στην Αίγυπτο  δεν πήγαν μετανάστες αλλά  μαχητές Έλληνες που πήγαν στην Μ.Ανατολή",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001239",
+      "source": "GREEK_X",
+      "text": "Έβαλε η ξευτιλισμενη τον εαυτό της στην ίδια μοίρα με τον ΡΟΥΤΣΙ;Αλήθεια τώρα ;#Tsantiri",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001253",
+      "source": "GREEK_X",
+      "text": "Δεν έχει και τόσο ενδιαφέρον ο τελικός της αποχώρησης, λείπει η Δαλάκα. #survivorGR https://t.co/dgXlN2UR2b",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001265",
+      "source": "GREEK_X",
+      "text": "η πιο αδιαφορη μονομαχια!\n#SurvivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001271",
+      "source": "GREEK_X",
+      "text": "#survivorGR \n#fanisbole\n\nπού να σε φτάσουν; ούτε στο μικρό σου δαχτυλάκι δεν μπορούν. δεν υπάρχουν λόγια για την μαχητικότητά σου & την αντοχή σου κάτω από οποιεσδήποτε συνθήκες ψυχολογικού πολέμου, τραυματισμών & λοιπών αντιξοότητων.\n\nέχεις άστρο, απλά, και σου αξίζει ό,τι καλύτερο. 🧿🌪️",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001280",
+      "source": "GREEK_X",
+      "text": "Αυτογκόλ η #παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001289",
+      "source": "GREEK_X",
+      "text": "αααα γι αυτο δεν εδωσαν τρειλερ στο #firstdatesgr για την επομενη πεμπτη. επειδη θα εχει το προτελευταιο επεισοδιο απ το #iq160gr κ το φιναλε της σειρας την παρασκευη. τωρα εξηγηθηκε το θεμα. παμε τωρα για #mavroipinakes το μεγαλο φιναλε.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001302",
+      "source": "GREEK_X",
+      "text": "Στο 24,7% η ΝΔ σε δημοσκόπηση της Interview. 24,7%  σ α π ί λ α. Όποιος γνωρίζει κάποιον από το 24,7% οφείλει να επιχειρηματολογήσει πάνω του. Πρόκειται για υπαρξιακό θέμα.\n\n#γαμος_ομοφυλοφιλων  #Άδωνις #Αριστοτέλους",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001330",
+      "source": "GREEK_X",
+      "text": "Όσο ο Τσίπρας πουλάει το #παραμΙΘΑΚΗ του...\n\nΑΕΠ: \n190δις &gt; 259δις\n\nΚατά κεφαλήν ΑΕΠ : \n17.800 € &gt; 22.841 €\n\nΑνεργία:\n20% &gt; 9,8%\n\nΔημόσιο Χρέος (% ΑΕΠ):\n181% &gt; 154%\n\nΜέσος ονομαστικός μισθός\n900 € &gt; 1.200 €\n\n#Angra_and_friends",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001343",
+      "source": "GREEK_X",
+      "text": "#παραμΙΘΑΚΗ #Τσιπρας #ΣΥΡΙΖΑ \n\nΠεριμένω να δω ποιον θα κατηγορήσει αργότερα για τη συγγραφή του βιβλίου",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001344",
+      "source": "GREEK_X",
+      "text": "Μετανάστες εντοπίστηκαν νότια της Παλαιόχωρας https://t.co/WqIkWfDg4d",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001360",
+      "source": "GREEK_X",
+      "text": "Μας ζητάει ο Τσίπρας να πιστέψουμε ότι η ευθύνη βρίσκεται σε τέσσερα διαφορετικά γραφεία, εκτός από το δικό του. #παραμΙΘΑΚΗ https://t.co/EQznTbS8IH",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001372",
+      "source": "GREEK_X",
+      "text": "στον εισαγγελέα μόνο τα πρακτικά της εξεταστικής για τον “φραπέ” – απορρίφθηκε από την πλειοψηφία (νδ), το αίτημα για σύλληψη του και αυτόφωρη διαδικασία. #φραπε #εξεταστικη #νδ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001391",
+      "source": "GREEK_X",
+      "text": "Ηράκλειο: Εντοπίστηκαν 42 μετανάστες σε πλοιάριο, μεταφέρονται στο λιμάνι https://t.co/9aiSPNnwJc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001397",
+      "source": "GREEK_X",
+      "text": "@MKabbadia53929 @linaxalikia13 Άστους να τραβάνε ζόρι \nΜαθημένος κι ο Αλέξης χρόνια τώρα απ το μίσος ηλιθίων\nκαι εμείς που είμαστε μαζί του\n#Τσίπρας https://t.co/pdPGaZ66dR",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001421",
+      "source": "GREEK_X",
+      "text": "Τέρμα πια τα Πακιστανικά νούμερα, παίρνεις το κινητό του #Φραπες και κάνεις τα τηλεφωνά σου \n\n#αγροτες_μπλοκα #νδ_εγκληματικη_οργανωση #αγροτικες_κινητοποιησεις",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001424",
+      "source": "GREEK_X",
+      "text": "#βουλγαρία: #εξεταστική επιτροπή για τον #τζορτζσόρος // #georgesoros #soros #bulgaria",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001429",
+      "source": "GREEK_X",
+      "text": "Καλημέρα στα δυνατά χαρτιά και στους ερωτικούς μετανάστες στους υπόλοιπους σκέτο γεια 😉😂😘😍☝️☕☕☝️",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001430",
+      "source": "GREEK_X",
+      "text": "Άλλη μια λέμβος με μετανάστες στη Γαύδο – Εντοπίστηκαν και διασώθηκαν 42 άτομα https://t.co/6E0XDbwEXO https://t.co/3uLEX9Whyb",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001436",
+      "source": "GREEK_X",
+      "text": "οι ευρωπαίοι είναι λευκοί. οι λοιποί είναι μετανάστες. υ.γ 1.είμαι γένους θηλυκού ηλίθιε. 2.είχα συμφοιτητή έναν λευκό με κενυατικη υπηκοότητα διότι είχε γεννηθεί εκεί. εσύ τι λες ;είναι γηγενής κενυατης;",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001437",
+      "source": "GREEK_X",
+      "text": "μπα για το μοντέλο έφεραν ψιλόχοντρο 🫣 #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_001449",
+      "source": "GREEK_X",
+      "text": "χαχαχαχα τι εγινε τωρα αριστεροζωα; εκαψε κανέναν ο φραπές; 🤡🤡🤡 πάρτε το χαμπάρι, 6 τετραετιες μητσοτάκη έρχονται αν δεν σας αρεσει τον πούλο απο την χώρα κατσαπλιαδες #εξεταστικη #οπεκεπε",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001452",
+      "source": "GREEK_X",
+      "text": "Γιατί δεν μας λέει επίσης το #ΚΚΕ που ψήφισε την τροπολογία Γεωργιάδη που είχε σκοπό να εκμεταλλευτεί τους μετανάστες για φτηνά εργατικά χέρια.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001460",
+      "source": "GREEK_X",
+      "text": "@mindcoreball @freezy_lol @freezy_lol Με τη συμβολή των ΑΡΔ και μετά από τις μεθοδευμένες, πολυετείς και βάναυσες ματαιώσεις όλων των ελπίδων των οπαδών του #paofc, σε πολιτικό και συλλογικό επίπεδο, οι περισσότεροι έχουν γίνει φοβικοί και δεν θέλουν καν να σκέφτονται το ενδεχόμενο να φύγει ο Αλαφούζος.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001464",
+      "source": "GREEK_X",
+      "text": "Είναι αδιανόητο το γεγονός ότι κάποιοι πιστεύουν χωρίς δεύτερη σκέψη ό,τι τους λένε \nοι διεφθαρμένοι δημοσιογράφοι και πολιτικοί, καταπίνουν ό,τι τους σερβίρουν χωρίς να αμφισβητήσουν τίποτα. Ένα τέτοιο παραμύθι, όπως το ότι ο #Τσίπρας χρέωσε τη χώρα με 100 δις ευρώ, συνεχώς αναπαράγεται χωρίς καμία βάση. \nΕνώ στην πραγματικότητα, με μια απλή αναζήτηση στο διαδίκτυο, μπορείς να ανακαλύψεις την αλήθεια και να ξεκαθαρίσεις τα πράγματα. Πώς είναι δυνατόν να αφήνουμε άλλους να μας πείθουν με ψέματα, όταν η πληροφορία είναι τόσο εύκολα προσβάσιμη;\n👇👇👇\nhttps://t.co/YVQWTGhD6O",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001476",
+      "source": "GREEK_X",
+      "text": "οι βρωμοελληνες δεν το λέω εγώ έτσι αποκαλούσαν τους πρώτους μετανάστες έλληνες στην αμερική",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001482",
+      "source": "GREEK_X",
+      "text": "@_tsouxtra Αντε,απόλαυσε το #παραμΙΘΑΚΗ σου.Καλή απόλαυση!😂😂",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001513",
+      "source": "GREEK_X",
+      "text": "Στην ΣΥΓΚΕΚΡΙΜΕΝΗ εξεταστική ο σύριζα θα έπρεπε να έχει τον πολάκη πρώτη γραμμή. Το \"Άκου να σου πω φραπέ\" να ηχήσει στο πανελλήνιο. Τώρα μόνο η κωνσταντοπούλου και η μιλένα κέρδισαν τις εντυπώσεις #Φραπες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001530",
+      "source": "GREEK_X",
+      "text": "αδιανόητο ότι αυτό το premium προϊόν είναι δωρεάν #οπεκεπε #εξεταστικη",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001556",
+      "source": "GREEK_X",
+      "text": "200.000 μετανάστες θα απελάσει η ... Τανζανία και για λόγους εθνικής ασφάλειας: Εδώ πιστεύουμε ότι θα τους... ενσωματώσουμε!\nhttps://t.co/1ZGB6Y0tql",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001557",
+      "source": "GREEK_X",
+      "text": "@skopimios Τον ένοχο τον αποκρύπτει πρωτίστως αυτή. Ειναι ο σταθμάρχης. Αλλα ως γνήσια απατεώνισσα προσπαθεί να συσκοτίσει την αλήθεια για να τα αρπάξει καλά. Δεν είναι από άλλο πλανήτη. Εμάς μας περνά για ούφο. Σιχάματα \n#Τεμπη_εργαλειοποιηση",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001570",
+      "source": "GREEK_X",
+      "text": "#Διασώθηκαν 107 #μετανάστες στη #Γαύδο, ενώ #συνελήφθησαν δύο #διακινητές... https://t.co/oqiPgKsJyH",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001572",
+      "source": "GREEK_X",
+      "text": "@Marka2free Λέγοντας τι …;;;;🤣🤣🤣🤣🤣\n\nΚαλό το #παραμΙΘΑΚΗ …🤭",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001580",
+      "source": "GREEK_X",
+      "text": "Εκπρόσωποι του Δικτύου Νέων Μεταναστευτικής Καταγωγής ΟΡΙΖΟΝΤΕΣ, παρευρέθηκαν στην εκδήλωση που διοργάνωσε η Depart με σύσσωμες τις ομάδες της Ελλάδος, Ιταλίας, Ισπανίας και Βουλγαρίας. Το κοινό τους όραμα για μετανάστες ενεργούς πολίτες που παράγουν πολιτική και δεν δέχονται https://t.co/7OzWtUzPl7",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001617",
+      "source": "GREEK_X",
+      "text": "zητάτε να είμαστε ανοιχτόμυαλοι ... από την άλλη φέρνετε μετανάστες που έχουν μείνει στο 1800 μx ... που πάτε την χωρα !!!",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001628",
+      "source": "GREEK_X",
+      "text": "Σύλληψη διακινητή με 3 παράνομους μετανάστες στην Καβάλα https://t.co/VCeoRRWaxy",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001633",
+      "source": "GREEK_X",
+      "text": "Η κωνσταντοπούλου σαν πολιτικός είναι delulu,αλλά σαν ανακρίτρια γαμεί και δέρνει.Τον ξέσκισε τον #Φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001639",
+      "source": "GREEK_X",
+      "text": "@Monika29698435 Σε λίγο όταν πλημμυρίσουμε παντού από μετανάστες θα είμαστε όλοι πλημμυροπαθει.  Οι έχοντες και κατέχοντες βέβαια δεν θα το υποστούν.  Κι αυτό είναι η τραγική αδικία.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001640",
+      "source": "GREEK_X",
+      "text": "10) η τρέχουσα - και οι επακόλουθες - κλιμάκωση αργά ή γρήγορα θα οδηγήσουν σε συγκρούσεις μεταξύ εγκληματικών ομάδων (που επανδρώνονται από μετανάστες) και των κρατικών αρχών.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001658",
+      "source": "GREEK_X",
+      "text": "Συρεγγέλα μέχρι υποτίτλους είσαι #φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001670",
+      "source": "GREEK_X",
+      "text": "#Φραπες \nΡε, τι αμαξάρα ειν αυτή; Πόρσε είναι;\nΌι, Τουγιούμου.\nΕ;\nΤουγιούμου είναι!\n\n🙃🙂🙃🙂🙃🙂🙃",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001680",
+      "source": "GREEK_X",
+      "text": "Σαν πολύ δεν βρίζει και δεν επιτίθεται στους εκλεγμένους μας ο #μαγειριας ;Υπο την πλήρη ανοχή του προεδρείου κ προσπαθώντας να εκνευρίσει τους βουλευτές για να αποφύγει την απάντηση; Για μαζέψου  ρε ΓΙΑ ΜΑΖΕΨΟΥ ΡΕ ΚΟΠΡΑΝΟ #ΟΠΕΚΕΠΕ #εξεταστικη #ΝΔ_εγκληματικη_οργανωση",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001692",
+      "source": "GREEK_X",
+      "text": "Εγω να ρωτήσω γιατί δεν έγραψε τρικάκι; Πιο τίμιο θα ήταν #παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001705",
+      "source": "GREEK_X",
+      "text": "αυτό που παρακολουθούμε αυτή την στιγμή στην #εξεταστικη από τον #φραπε είναι το απόλυτο ξετίλισμα των νεοδημακρατών. σιχαμάτα, παράσιτα της χώρας και του λαού",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001717",
+      "source": "GREEK_X",
+      "text": "Ο  Αλέξης Τσίπρας ελάχιστες πραγματικατικές ικανότητες διαθέτει. Ανάμεσα σε αυτές που κατέχει άριστα και με την οποία αποδεδειγμένα παράγει εξαιρετικά αποτελέσματα είναι ο τακτικισμός!\nΚι όποιος κατάλαβε κατάλαβε\n#παραμΙΘΑΚΗ #ΙΘΑΚΗ #Τσιπρας #Αλεξης",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001745",
+      "source": "GREEK_X",
+      "text": "@tsouganatos @NativeAthenian @dimitrisnatsios @nikhgreece @intzes_ioannis ο πρόεδρος σας ,ηταν παρων στην προσφατη ημεριδα του κ.Μεντζελοπουλου για την οικογενεια,οπου ο τελευταιος ειπε πως δεν μπορουμε να κανουμε πολλα πράγματα αν ψηφιστει ο #γαμος_ομοφυλοφιλων .Τουλάχιστον ο κεραλοιφάς Βελοπουλος ζητησε,υποκριτικά,τον αφορισμό τους. Εσεις ;;",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001755",
+      "source": "GREEK_X",
+      "text": "Οι αλλοι φταινε το εμπεδωσαμε ο Αλεκσης ειδε φως κ μπηκε καμια ευθυνη #παραμΙθακη",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001756",
+      "source": "GREEK_X",
+      "text": "@psekadelic @nikosarantakos Με καλή την πίστη θεωρώ ότι η συντριπτική πλειοψηφία των μεταναστών δεν έρχεται για να κάνει κακό σε κανέναν.Και πάρα πολλοί όντως δουλεύουν τίμια. Αρκεί όμως αυτό για μια κοινωνία που θα δει το δικό της βιοτ. επίπεδο να βυθίζεται; Ή οι μετανάστες καταλαμβάνουν μόνο κενές θέσεις;",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001776",
+      "source": "GREEK_X",
+      "text": "@CKazantzoglou @mariakalantze Αυτή είναι ακριβώς η ειδοποιός διαφορά\nΗ γυναίκα είναι ένα αντικείμενο🤬🤬🤬 που το χρησιμοποιούν για να εκτονωθούν\nΑκόμα και 2ης γενιάς μετανάστες που μεγαλώνουν στην Δύση με επιρροές πολιτισμικές και θρησκευτικές του τόπου καταγωγής τους βλέπουν τις γυναίκες ως σκεύος\n🤬🤬🤬🤬",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_001791",
+      "source": "GREEK_X",
+      "text": "Είχε μπει λέει στο ανσανσερ και είπε στην γραμματέα του: \"Τελείωσε είμαστε στην δραχμή\".\nΝΑΙ ΚΑΤΙ ΕΙΧΑΜΕ ΚΑΤΑΛΑΒΕΙ.🖐🖐\nΤσίρκο ηλιθίων.\nΤα λέει και μόνος του! \nΟ αρχικλόουν. #παραμΙΘΑΚΗ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_001793",
+      "source": "GREEK_X",
+      "text": "να βάλουμε φθηνούς μετανάστες να στελεχώσουν τις ε.δ θα μας βγει φθηνά ....λέω ....",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001798",
+      "source": "GREEK_X",
+      "text": "Τι να πρώτοσχολίασεις \nΌτι οι απόγονοι μεταναστών δεν θέλουν άλλους μετανάστες γιατί καπάρωσαν το μέρος \nΌτι το ΝΑΤΟ πρέπει να βομβαρδίσει το Τέξας \nΜήπως η Ρωσία εξοπλίζει το Τέξας ;",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001799",
+      "source": "GREEK_X",
+      "text": "άγρια κόντρα ζωής – «#φραπες»: «ήθελες να τους γ@..σεις όλους», «με λένε τζίτζη» #οπεκεπε #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001806",
+      "source": "GREEK_X",
+      "text": "Δε βλέπω να φωνάζουν οι ομάδες, μάλλον θέλουν να τους ξεφορτωθούν #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001808",
+      "source": "GREEK_X",
+      "text": "επρεπε να τα πληρώσεις κοπελια στο ρεζίλι #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001847",
+      "source": "GREEK_X",
+      "text": "Τσίπρας έγραψε βιβλίο για την αλήθεια. Εντάσσεται στη σειρά “Ανέκδοτα του αιώνα”. #παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001859",
+      "source": "GREEK_X",
+      "text": "Η διχόνοια δεν φέρνει δικαιοσύνη. Μόνο καθυστέρηση.\n#τεμπη_εργαλειοποιηση https://t.co/FK3g3FjRLQ",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_001868",
+      "source": "GREEK_X",
+      "text": "#εξεταστικη #οπεκεπε #φραπες #χασαπης με τον σανο που περίσσεψε από τα γιδοπρόβατα που δεν υπάρχουν ταΐζουν τα «γιδοπρόβατα» που τους ακολουθούν \"..λοιπόν 54.000 κεφάλια έχεις, το βλέπω τώρα μπροστά μου γεννάνε πολύ & γρήγορα, ξέρεις πως είναι αυτά..\"",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001891",
+      "source": "GREEK_X",
+      "text": "@GiorgosSahinis Όταν το 92 οι Έλληνες βοηθοί τεχνιτών έπαιρναν 3000 δρχ μεροκάματο, ήρθαν οι Αλβανοί με 1500. Οι Έλληνες στράφηκαν σε άλλα επαγγέλματα η στο δημόσιο. Με τα χρόνια οι μετανάστες γίνανε αφεντικά και στο τέλος πήραν τη τέχνη και την εξαργυρώνουν τώρα στην Ευρώπη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001911",
+      "source": "GREEK_X",
+      "text": "@Liberta25061969 Δεν δεν θες.......η θρησκεία και οι ιερείς θα υπάρχουν.......χώνουν την μύτη τους εκεί που πρέπει.......κ καλά κάνουν......όσο για άπορους βοήθειες κ μετανάστες....δεν έχουν καμία τράπεζα που να μοιραζει. οτι δεχεται το κρατος δεν μπορει να το σωζει η εκκλησια..γιαυτό ΠΡΟΣΟΧΗ....",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_001931",
+      "source": "GREEK_X",
+      "text": "@dimskourias @4fABkkc5xTv2aek Γιατί έλεος? Η λήθη και το έλεος που είπαμε στο Γράμμο μας οδήγησαν στα σημερινά φαινόμενα όπως Κωνσταντοπούλου, Χαρίση Φάμελλος, Τσίπρα, ρουτσι, κάρυ, Δούκα , Λαζόπουλος, θες και άλλους να σου πω?",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001943",
+      "source": "GREEK_X",
+      "text": "#ΟΠΕΚΕΠΕ #Φραπες \n\"Με τον μεγάλο έχεις μιλήσει;\"\n\nΟ Μεγάλος: https://t.co/jdBx9ZzPqS",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001950",
+      "source": "GREEK_X",
+      "text": "ο καραμανλής δεν οδηγούσε το τρένο, τους μετανάστες τους φέρνει η ευρωπαϊκή ένωση, η ακρίβεια είναι εισαγόμενη, τα όπλα μας τα παίρνει η ουκρανία, για την εγκληματικότητα φταίει το τικτοκ, και για τη φοροδιαφυγή οι διεφθαρμένοι ιδιώτες. η κυβερνησάρα δεν κάνει ποτέ λάθος.",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001961",
+      "source": "GREEK_X",
+      "text": "#Μαγειριας σήμερα στη #εξεταστικη στη  #βουλη  .............#ΟΠΕΚΕΠΕ #αγροτες #ΜΠΛΟΚΑ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_001980",
+      "source": "GREEK_X",
+      "text": "@ManosVoularinos Άφησαν το Ρούτσι και κατσικωθηκε 23 ημέρες. Αφήνουν τους αγρότες και θα.κλεισουν τους δρόμους μέχρι τον Γενάρη. Ανίκανοι και αναποτελεσματικοί....",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_001989",
+      "source": "GREEK_X",
+      "text": "εγώ παω έλα του είπε 🤣🤣🤣 #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002001",
+      "source": "GREEK_X",
+      "text": "Μόλις εμφανίστηκε με #Τεμπη_Συγκάληψη ψηλή Ρουμάνα εισαγγελέας εβροπις του Σόρος🌈Κιόβεσι(που' βγαλε\"διαφθορά\"#Ρουμανία και  πολεμάν #Ουκρανία) κάναν #γαμος_ομοφυλόφιλων,#Δενδιας κλείνει #Ναυπηγεία #ΑμυντικήΒιομηχανία πουλά #F16(που δεν δίνει Δανία αλλά σε πριονάτο Αργεντινή🤡)🤔 https://t.co/1CH1u4ik7z",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002027",
+      "source": "GREEK_X",
+      "text": "Αμάν τι πάθαμε ρε παιδιά; Ο Λακαφώσης λέει, δεν συμφωνεί με το πόρισμα της Πυροσβεστικής! Εδώ ο άνθρωπος, τόσα πειράματα έκανε! Ξέρετε πόσα φιαλάκια ξόδεψε στο γκαζάκι; Να πάνε χαμένα; Πως θα μαζέψει τώρα κόσμο η Μαρία στις συναυλίες; #τεμπη_εργαλειοποιηση #Τέμπη",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002032",
+      "source": "GREEK_X",
+      "text": "#ΝΔ_Συμμορια βάζει κεφαλικό φόρο #δημογραφικό, #γαμος_ομοφυλόφιλων και εισαγωγές #Ζελενσκι αντί #αγρότες ενώ #Ορμπαν απαλλάσει από φόρο με πάνω από 3 παιδιάhttps://t.co/nPeCbyL7ZDΤι κακός για γκλομπαληστές🌈ΕΕ που πληρώνουν νταμπινγκ #μεταναστευτικό κ ιθαγένεια #Σακελλαροπούλου🤔",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002050",
+      "source": "GREEK_X",
+      "text": "αιτιοκρατία: ένα σύστημα καθορίζεται πλήρως από τις αρχικές συνθήκες \n#ΟΠΕΚΕΠ #Αδωνις #Βοριδης  #Φραπες #χασαπης και cia\n#ΕΛΛΗΝΙΚΗ_ΛΥΣΗ #Βελόπουλος https://t.co/Rsl91p7vIn",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002055",
+      "source": "GREEK_X",
+      "text": "προφανώς και δεν εχει δει gothic γκόμενα ποτέ ο τύπος.....#firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002061",
+      "source": "GREEK_X",
+      "text": "Βρίζετε τους ίδιους ανθρώπους που εκθειάζατε κάποιες μέρες πριν ως μπροοδευτικούς επειδή υπερψήφισαν το νομοσχέδιο για #γαμος_ομοφυλοφιλων\nΕ,άει στα διάλα από κεί ζωάδια🖐🖐🖐\n #ιδιωτικα_πανεπιστημια",
+      "toxicity": "Explicit",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002076",
+      "source": "GREEK_X",
+      "text": "κρατήστε #παιδοφιλους #λαθρο #λοατκι σεξ βία ναρκωτικά πορνεία εύκολο χρήμα κ #α_γαμηδια σε όλους τους δήθεν μοντέρνους 🤬🤬",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002081",
+      "source": "GREEK_X",
+      "text": "Πρωτοφανής κρίση στις ΗΠΑ για σύνορα, μετανάστες – Τέξας: «Προδότης ο Biden, πάμε σε αυτοάμυνα». μετέφεραν 102.000 αλλοδαπούς https://t.co/1J2gmS5ypK #ΗΠΑ #ΤζοΜπάιντεν #Επικαιρότητα",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002103",
+      "source": "GREEK_X",
+      "text": "αναγκάζονται να κλείσουν τα σύνορα. δεν θέλουν μετανάστες.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002104",
+      "source": "GREEK_X",
+      "text": "η ενσωμάτωση σε πλήρη δράση στην λεωνίδου στο μεταξουργείο μπαλάκια με σισα νταραβέρι μέρα μεσημέρι #metaxourgio #ναρκωτικά #λαθρο #lathro",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002106",
+      "source": "GREEK_X",
+      "text": "Το ίδιο γκολ έβαλε ο Γιώργος Δεληκάρης κόντρα στον Ζεπ Μάιερ της παγκόσμιας πρωταθλήτριας Γερμανίας, ανοίγοντας το σκορ στο εντός έδρας 2-2 για τα προκριματικά του Euro 1976.\nΉταν 20/11/1974, σχεδόν έντεκα μήνες μετά το γκολ του Κρόιφ (22/12/1973).\n#paofc\nhttps://t.co/XQ0gz1vdoW",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002111",
+      "source": "GREEK_X",
+      "text": "θα κλαίω μέχρι αύριο … 😭🤣 #εξεταστικη",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002119",
+      "source": "GREEK_X",
+      "text": "Ο Βενιζέλος στις εκλογές της 1ης/11/ 1920 δεν εξελέγη ούτε βουλευτής\nΑποσύρθηκε από την πολιτική αλλά επιστρέφει το 1922 στη γενέτειρά του,την Κρήτη και συναντάται με τον πιστό του φίλο.\nΟ διάλογος συγκλονιστικός.\nΑκολουθησε ο θρίαμβος του.\nΗ ιστορία επαναλαμβάνεται \n#Τσιπρας https://t.co/VOw2SzUAm2",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002123",
+      "source": "GREEK_X",
+      "text": "@downbeatkilljoy Έχεις καμιά εντύπωση ότι πολλούς παράνομα συλληφθέντες από το ελληνικό κράτος μετανάστες μουσουλμανους, Πομάκους κ.ά. που το αντιφασιστικό κίνημα έχει παλέψει για την αποφυλάκισή τους, πρόκειται συνήθως για τίποτα αντιφασιστες; Ή μήπως αν ειναι εθνικιστές να μη τους στηρίζουμε;",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002160",
+      "source": "GREEK_X",
+      "text": "Σαμπαλής πρός @kmitsotakis: «O λόγος της παραίτησης μου είναι ότι είμαι υπέρμαχος της οικογένειας με την φυσιολογική της μορφή. Το τρίπτυχο Πατρίδα, Θρησκεία, Οικογένεια, είναι για μένα ιερό»\n\n#γαμος_ομοφυλοφιλων  #βουλή \n\n▶️ https://t.co/yv6ZdeZz3y",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002206",
+      "source": "GREEK_X",
+      "text": "#Φραπες ειχε πονόδοντο λεει ο κοτοπουλοφραπες..η κότα η λυρατη..βγαλε τα παντελόνια ρε αληταρα και βάλε φούστα,  σκουπιδι.",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002210",
+      "source": "GREEK_X",
+      "text": "#Φραπες ΝΤΡΟΠΗ ΣΑΣ ΑΛΗΤΕΣ\nΤον αφήνουν ελεύθερο τον αληταρα...ΞΕΦΤΙΛΕΣ",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002214",
+      "source": "GREEK_X",
+      "text": "Αυτό του Αλέξη ότι έφταιγαν όλοι εκτός από τον ίδιο,το είχε κάνει κ τότε που ήταν μαθητής με τις καταλήψεις.\n\nΑπλά τώρα πληρώνεται κ 28€.\n\n#παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002218",
+      "source": "GREEK_X",
+      "text": "@_Mumm_Ra @AdonisGeorgiadi @LiberalGr Το κολόγερε το ξεπερνώ.  Εσύ τι είσαι, να υποθέσω να πέσει η χούντα του Μητσοτάκη να έλθουν τα λιμοτάγαρα να κυβερνησουν!!!!\n#Τεμπη_εργαλειοποιηση",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002220",
+      "source": "GREEK_X",
+      "text": "την επείγουσα ανάγκη για ανάληψη δράσης από την 🇪🇺 για την επιτήρηση των συνόρων του 🇱🇧, αποδεικνύει η άφιξη σκάφους με μετανάστες, την ώρα που συνεχίζουμε την προσπάθεια για επαναξιολόγηση από την εε του καθεστώτος της 🇸🇾, βάσει των πραγματικών συνθηκών 👉",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002221",
+      "source": "GREEK_X",
+      "text": "Ναι κάτι τέτοιο άκουσα και εγώ \n#paofc #paokfc https://t.co/aon5kPPv62",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002240",
+      "source": "GREEK_X",
+      "text": "ΖΕΙΔΩΡΟΝ: Γαύδος: Εντοπίστηκαν και διασώθηκαν 107 μετανάστες - Συνελήφθησαν δύο ως διακινητές: https://t.co/2OK2V9b09H",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002242",
+      "source": "GREEK_X",
+      "text": "@yySums4O5hfKUTQ Χρεώνανε 15 ευρώ τους μετανάστες για ν φάνε ;",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002255",
+      "source": "GREEK_X",
+      "text": "Καλά ΕΣΠΑ,\"δέσποτα\"...\nTον θυμόσαστε τον Φθιώτιδος που τον χειροκροτούσατε κ λέγατε «τέτοιους επισκόπους θέλουμε», όταν πέταξε την ανέξοδη κορώνα «Ναι ρε, είμαστε συντηρητικοί, τι θές;» για τον #γαμος_ομοφυλοφιλων ;;\nΝα΄τος...#διαβολοκρατια \n«Κύριε κάψε μας» ,όπως είπε η 92χρονη https://t.co/KK02FQ6bP3",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002274",
+      "source": "GREEK_X",
+      "text": "Ανοιχτά μας το λένε : #λαθρο και πουστιά είναι το μέλλον που μας επιφυλάσσουν.Ας ελπίσουμε να μας κάψει ο καλός Θεός,πριν προλάβουμε να κάνουμε πράξη τα διαβολικά σχέδια μας. #διαβολοκρατια #γαμος_ομοφυλοφιλων",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002282",
+      "source": "GREEK_X",
+      "text": "η nestle πρέπει να κάνει ασφαλιστικά μέτρα στον φραπέ! #φραπες #εξεταστικη #οπεκεπε",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002289",
+      "source": "GREEK_X",
+      "text": "σβε: εργαζόμενοι από τρίτες χώρες, πρόσφυγες και μετανάστες για κάλυψη των κενών θέσεων εργασίας στη βιομηχανία",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002299",
+      "source": "GREEK_X",
+      "text": "Αγρότες: «Απόβαση» των τρακτέρ από ξηρά και θάλασσα – «Ας έρθουν να μας συλλάβουν» https://t.co/nAE2Rpn1KS \n#αγροτες #αγρότες #αγροτες_μπλοκα #ΜΠΛΟΚΑ #μπλοκα #τεμπη #τεμπη_έγκλημα #τεμπη_συγκαλυψη #ακρίβεια #ΟΠΕΚΕΠΕ #Εξεταστικη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002305",
+      "source": "GREEK_X",
+      "text": "τα σύνορα μονάχα δολοφονούν. χαρτιά και δικαιώματα για όλους τους μετανάστες. #stop_pushbacks #antireport",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002310",
+      "source": "GREEK_X",
+      "text": "✅ φοροεπιδρομή σε μικρομεσαίους ✅ μαζικές νομιμοποιήσεις #λάθρο ✅ τεκνοθεσία από #ομοφυλα_ζευγαρια ✅ \"δεν χρειαζόμαστε και πολλά πλοία\" 🤡 ούτε ο τσίπρας δεν έκανε τέτοιες κωλοτούμπες μέσα σε ένα 6μηνο ρε #νδ_ξεφτίλες. 🤮 #κυβερνηση_μητσοτακη #μητσοτακης #δενδιας",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002329",
+      "source": "GREEK_X",
+      "text": "#λαθρο-εισβολείς επι το (διατεταγμένο) έργο αλλοδαπός έβαλε φωτιά στο ξωκλήσι και ..το έβλεπε να καίγεται... τυχαίο; καθόλου #ελληνικη_λυση #βελόπουλος",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002334",
+      "source": "GREEK_X",
+      "text": "1971 Έβερτον -Παναθηναικος 1-1.#paofc https://t.co/m3LwFFfaE3",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002341",
+      "source": "GREEK_X",
+      "text": "Αυτό το τραγικό συμβάν με τους 2 ΝΕΚΡΟΥΣ πιλότους μας 🇬🇷, ο κ. Τσίπρας @atsipras, το περιγράφει ακριβώς με τον ίδιο τρόπο στο βιβλίο του #παραμΙΘΑΚΗ\n\nΓια να καταλάβει & ο πλέον αδαής με την πολιτική, αλλά & κάθε νέος άνθρωπος που δεν έζησε το δράμα που βιώσαμε επί διακυβέρνησης ΣΥΡΙΖΑ @syriza_gr -της πιο ανίκανης & επικίνδυνης Κυβέρνησης που πέρασε ποτέ από την Ελλάδα- ΠΟΙΟΣ είναι ο Αλέξης Τσίπρας..\n\nΑΥΤΟΣ ΕΊΝΑΙ.\n\n#Τσιπρας #ΣΥΡΙΖΑ",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002343",
+      "source": "GREEK_X",
+      "text": "Το παπαδαριο ξεσάλωσε!\nΞερνάνε όλη τη χολή τους!\nΤους έχουμε γραμμένους!\n#γαμος_ομοφυλοφιλων",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Religious Bias"
+   },
+   {
+      "text_id": "EL_002348",
+      "source": "GREEK_X",
+      "text": "Εντωμεταξύ τον παρακαλούσαν να γυρίσει στην αεκ και όταν ήρθε σε εμάς έλεγαν δεν τον θελουμε έχουμε τσουμπερ μάνταλο χαχαχαχα\nΕντωμεταξύ ο Μάνταλος σήμερα τραγικός \n#paofc https://t.co/g60VlmDYhY",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002357",
+      "source": "GREEK_X",
+      "text": "Μαρή Συρεκελα ηρέμησε λίγο\n#Φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002367",
+      "source": "GREEK_X",
+      "text": "🪙 Η σιωπή είναι χρυσός #ΟΠΕΚΕΠΕ #Φραπες\nΣτίχοι - παραγωγή: Jo Di\nhttps://t.co/1kLvAqjFZW https://t.co/TiobCYPOu1",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002378",
+      "source": "GREEK_X",
+      "text": "@Olenios @ellhgiwtakh12 Έχει βρει άλλη δεξαμενή ψηφοφόρων!!!! Γι'αυτό αδιαφορούν για την δυσαρέσκεια του Έλληνα πολίτη.... όλα ώρα καραβάνια λάθρο που καταφθάνουν καθημερινά θα ψηφίσουν την επόμενη φορά και φυσικά οι ... μειονότητες που ευεργετήθηκαν από τον #γαμος_ομοφυλοφιλων",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002382",
+      "source": "GREEK_X",
+      "text": "Πολύ εύκολη παραμονή. Ακόμα και αγχωμένη τους έκανε πλάκα σε στόχο που θα κλείσει σπίτια. Δαλακάρα άλλους 6 έχεις να στείλεις σπίτια τους. Τώρα αρχίζει το ωραίο💪💪💪 #survivorGR #ΔΑΛΑΚΑ_ΜΟΝΟ https://t.co/3EK86YgbLD",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002393",
+      "source": "GREEK_X",
+      "text": "Δεν ξέρω τι είναι πιο εξοργιστικό.\nΟι αντιευρωπαϊκες πολιτικές των κορυφαίων αξιωματούχων της ΕΕ π έχουν πλημμυρίσει την Ευρώπη με μετανάστες ή η δήθεν έκπληξη των p.c. δημοσιογράφων μας για κάτι π ήταν πιο εύκολο να προβλεφθεί κ από την ανατολή του ηλίου.\n#morons https://t.co/dSh0O4DFOi",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002397",
+      "source": "GREEK_X",
+      "text": "Συνάντηση Τσίπρα-Λούκας Κατσέλη: «Μήνυμα ενότητας η υποψηφιότητά της» #ΠτΔ #Τσίπρας https://t.co/6lFd6rfhWv",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002403",
+      "source": "GREEK_X",
+      "text": "παιδοφιλος ξεκάθαρα . στην πλατεία συντάγματος κάνουν πιάτσα ανήλικα #λαθρο.τους έχουν βγάλει σε ρεπορτάζ διεθνη κανάλια.κάποια έχω ανεβάσει στο ακαου.είμαστε χειρότερα απο κολομβία του εσκομπάρ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002410",
+      "source": "GREEK_X",
+      "text": "Η πρώτες δηλώσεις του Μαξίμοβιτς #paofc #Panathinaikos https://t.co/U7FDJ0E8NG",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002417",
+      "source": "GREEK_X",
+      "text": "@vpng13 Οι μετανάστες τι διεκδικήσεις και δικαιώματα έχουν? Ας ξεκινήσουμε από τις υποχρεώσεις τους πρώτα και αν βρίσκονται στην Ελλάδα νόμιμα.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002424",
+      "source": "GREEK_X",
+      "text": "Κουράστηκα \nΝα γίνει ατομικό\n#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002434",
+      "source": "GREEK_X",
+      "text": "ξεκινήστε απελάσεις τώρα! μου θέλετε και κάμερες για τους έλληνες όταν όλοι οι ξένοι που ζουν στην ελλάδα με τις ευλογίες σας κάνουν ό,τι θέλουν μέσα στα μούτρα σας! #νδ_ξεφτιλες #αλβανοι #συνταγμα #mystylerocksgr #firstdatesgr #shoppingstar #μετρο_θεσσαλονικης",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002451",
+      "source": "GREEK_X",
+      "text": "#Κρήτη: Ακόμα ένα σκάφος με μετανάστες νότια της #Γαύδου https://t.co/scvfeQvmId",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002456",
+      "source": "GREEK_X",
+      "text": "Μοναδικό  κράτος στον πλανήτη που επιδοτεί εκδηλώσεις με σλόγκαν «κάψτε τη χώρα».\nΦανταστείτε να έβγαιναν με \"Destroy the US \" στην τελετη των Οσκαρ ή \"Destroy France\" στο Φεστιβαλ των Καννών.\nΚάθε μέρα, ξύνουμε τον πάτο του απόπατου\n#Τεμπη_έγκλημα #Μιχος #γαμος_ομοφυλοφιλων",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002469",
+      "source": "GREEK_X",
+      "text": "@nyxta_mera «Η αλήθεια ήταν μία\nΔεν είχε κερδίσει ποτέ ο #ΣΥΡΙΖΑ τις εκλογές\nΟ #Τσιπρας τις είχε ΚΕΡΔΙΣΕΙ με ΥΠΟΣΧΕΣΕΙΣ που ΔΕΝ ΤΗΡΗΣΕ\nΟι ΙΔΙΟΙ ΔΕΝ ΗΤΑΝ ΠΟΤΕ ΕΤΟΙΜΟΙ να ΚΥΒΕΡΝΗΣΟΥΝ\nΤο ΚΟΜΜΑ ΕΦΘΙΝΕ συνεχώς\nΕίχαν ανάγκη από ένα αποδιοπομπαίο τράγο\nνα του ρίξουν όλες τις ευθύνες...».",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002470",
+      "source": "GREEK_X",
+      "text": "Σιγά μη σκίσετε και κανένα καλσόν λεει στη Συρεγγέλα. #κωνσταντοπουλου #Φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002486",
+      "source": "GREEK_X",
+      "text": "Τραμπ \"Οι μετανάστες καταστρέφουν το αίμα στην χώρα μας \"Ο εκπρόσωπος της Κου Κλουξ Κλαν.🤮",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002506",
+      "source": "GREEK_X",
+      "text": "Κρήτη: Ακόμα ένα σκάφος με μετανάστες νότια της Γαύδου – Συνολικά διασώθηκαν 107 σε λίγες ώρες\nhttps://t.co/6tCtVuQhyQ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002526",
+      "source": "GREEK_X",
+      "text": "Σύλληψη 32χρονου που μετέφερε παράνομα τέσσερις μετανάστες #32χρονος #παράνομημεταφοράμεταναστών #συλληψη   https://t.co/vUTgCgkFMZ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002537",
+      "source": "GREEK_X",
+      "text": "Καλημέρα !\nΜια ερώτηση… \nΑυτό το έκτρωμα πως παίζει τόσα χρόνια στην Λίβερπουλ; \n#paofc #hellas #OlympiacosFC https://t.co/IS4zBUkKFQ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002557",
+      "source": "GREEK_X",
+      "text": "@KVasiliadis72 @Anixiv Ελάχιστα δεν ήταν fake. Έφαγες ξυλολια, χαμένα βαγόνια, εκατοντάδες νεκρούς, τον Ρούτσι και ακόμα να καταλάβεις ότι τρως δούλεμα …",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_002562",
+      "source": "GREEK_X",
+      "text": "Το ματς θέλει Ντελια θα τους κάνει πουτανα #GEOGRE #paofc #Olympiacosfc",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002564",
+      "source": "GREEK_X",
+      "text": "ΚΑΙ ο #Μαγειριας με τη #Σεμερτζίδου κερδίσανε πολλές φορές το #Τζόκερ γιατί είναι κι αυτοί τυχεροί όπως η κόρη του #χασάπη  😂🤣😂🤣🤣 και πήγε στην επιτροπη και τους κοιτούσε και με ύφος 😂🤣😂\nΚι ο #φραπες τους έφτυσε με να παλιοχαρτο και ξεχάστηκε ήδη 🤣🤣😂😂\n\n#ΟΠΕΚΕΠΕ https://t.co/Z5QGid29k3",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_002578",
+      "source": "GREEK_X",
+      "text": "εξεταστική επιτροπή οπεκεπε: ο \"φραπές\" κατέθεσε υπόμνημα επικαλούμενος το δικαίωμα της σιωπής #οπεκεπε #εξεταστικη #πολιτική",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002586",
+      "source": "GREEK_X",
+      "text": "Έτσι πιστεύω κ εγώ.\nΟ Ζήκος της 💜 μας, \nποντάρει στο κοινό της Πασοκάρας. \nΚαι δεδομένου περί ποίου βλάκα πρόκειται \n(σ.σ. Ευρωβοσκός) άνετα θα του πάρει το κόμμα.\n\n#παραμΙΘΑΚΗ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002587",
+      "source": "GREEK_X",
+      "text": "πα ρολά αυτά δεν μπόρεσαν να τον κηδέψουν γιατί δεν υπάρχουν συγγενείς για ναγνωριση και αγγελία εξαφάνισης για τους μετανάστες βγαίνει μετά από 4 χρόνια απ τη μέρα της εξαφάνισης τους.. περίεργος νόμος περίεργο πράγμα γενικά αλλά όντως υπάρχει μαρτυρία.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002603",
+      "source": "GREEK_X",
+      "text": "Deutsche Welle: Χρήσιμοι τελικά οι «ανεπιθύμητοι» μετανάστες; | Επίσημα στοιχεία δείχνουν ότι 16.000 αιτούντες άσυλο έπιασαν δουλειά το 2022 πριν τους χορηγηθεί άδεια παραμονής. Για υποκρισία κατηγορείται η βρετανική κυβέρνηση  https://t.co/vedvr3GpBD https://t.co/WdUn8no2sm",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002605",
+      "source": "GREEK_X",
+      "text": "@machiavelli_gr Μη ασφαλές να φρουρείς τα σύνορα και να μην αφήνεις δεκάδες χιλιάδες παράνομους μετανάστες από διάφορες άκυρες και εχθρικές χώρες να περνάνε χωρίς έλεγχο... τι μαθαίνει κανείς. \nΤι συμβαίνει στον κόσμο, έχει ξεπεράσει το απλά παράλογο όλο αυτό.",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002617",
+      "source": "GREEK_X",
+      "text": "Παίζει να 'ναι η μάνα του η Αθανασία Νταβαρίνου...🤔🤔🤔 \n#εξεταστικη #μαγειριας #ΟΠΕΚΕΠΕ https://t.co/BvgJNyUxxm",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_002631",
+      "source": "GREEK_X",
+      "text": "#καιριδης: μείωση των μεταναστευτικών ροών ... λες και έχει σημασία αν μπαίνουν από σάμο ή την κρήτη ... έτσι κι' αλλιώς, η διεθνής \"αλληλεγγύη\" μας έχει επιβάλει διευκόλυνση των #λαθρο-διακινητών #ελληνικη_λυση #βελόπουλος",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002639",
+      "source": "GREEK_X",
+      "text": "Η μόνη περίπτωση να τα ξερνούσε όλα ο #Φραπες https://t.co/wahWLsb4GG",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002641",
+      "source": "GREEK_X",
+      "text": "@skasselakis Ρε ομοφυλόφιλε ΛΟΑΤΚΙ, νομίζαμε ότι εννοούσες τον άλλον τον Παύλο τον Πολάκη, που ΔΕΝ ψήφισε τα .....ανθρώπινα δικαιώματα σου😆\n#γαμος_ομοφυλοφιλων #Λιγναδης",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_002652",
+      "source": "GREEK_X",
+      "text": "αυτοί είναι οι κρητικοί και οι πλειονότητα των ελλήνων παλιοτόμαρα την τσεπη τους κοιτάνε ,δεν τον νοιάζει που έρχονται σομαλοί στην ελλάδα αρκεί να μην τους χαλάσουν τις μπίζνες του το καλοκαίρι #λαθρο",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002669",
+      "source": "GREEK_X",
+      "text": "δεν υπήρχε αναρχικός χώρος στις ηπα την εποχή που αναφέρεσαι. υπήρχε φιλελευθερισμός και ατομικισμός. η αναρχία σαν ιδέα μεταφέρθηκε από ευρωπαίους μετανάστες. και δεν υπάρχει τέτοιο πράμα όπως αυτό που γράφεις ΄΄euro-anarchy supremacists΄΄ αυτά είναι φιλελεύθερες ορολογίες.",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002670",
+      "source": "GREEK_X",
+      "text": "«Οι υπαλλήλοι πρέπει να κληθούνε!!!» #Φραπες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002689",
+      "source": "GREEK_X",
+      "text": "κι αυτός θέλει να φυγει,μην ανησυχείς... #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002692",
+      "source": "GREEK_X",
+      "text": "Υπέρ της συμφωνίας για τους μετανάστες με την Ιταλία η Αλβανία https://t.co/hHOMCLVZ0N",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002710",
+      "source": "GREEK_X",
+      "text": "Κρήτη: Διάσωση πλοίου με 42 μετανάστες @ThePressProject https://t.co/NFWUdSBLHr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002717",
+      "source": "GREEK_X",
+      "text": "άβολοοοοοο......#firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002720",
+      "source": "GREEK_X",
+      "text": "#σβίγκου για #εξεταστική #οπεκεπε / πρωτοφανείς οι μεθοδεύσεις της κυβέρνησης για τη #συγκάλυψη του σκανδάλου",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002730",
+      "source": "GREEK_X",
+      "text": "Γιατί ήταν σημαντικό να νικήσει σήμερα σύμφωνα με τον Αταμάν\nhttps://t.co/ToxV6B0Xm2\n#paopantou #paofc #panathinaikos #Panathinaikos #paobc #PanathinaikosFC #PanathimaikosBC #paoac #paovc #Panathinaikos1908 #Παναθηναικο #Χουαντσο #Ιωαννιδη #Σασα #Αταμαν #ΟΑΚΑ",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002735",
+      "source": "GREEK_X",
+      "text": "Τρεις βάρκες με #μετανάστες έφτασαν στην #Κύπρο - Επιχείρηση για αγνοούμενο άτομο\n\nhttps://t.co/Gwz8hoZa6m",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002756",
+      "source": "GREEK_X",
+      "text": "Το πόρισμα έκλεισε στόματα και τους συνομωσιολόγους στις τρύπες τους!\n#Τεμπη_εργαλειοποιηση",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002769",
+      "source": "GREEK_X",
+      "text": "@Nikosmoraitis Ειναι κάποιοι άνθρωποι, που σε κάνουν να κλαις απο συγκίνηση, θεωρώ μέσω του κ Πανου Ρουτσι γνωρίσαμε πολλούς ΑΝΘΡΩΠΟΥΣ, μας έδωσαν την ελπίδα ότι ΝΑΙ υπάρχει ακόμη ανθρωπιά,  κ Ρουτσι εσυ πρώτος μας το χάρισες με τον αγώνα σου,  σε ευχαριστούμε.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002773",
+      "source": "GREEK_X",
+      "text": "Θανάσης Λάλας για ΟΠΕΚΕΠΕ: «Έχετε δει κάποιον επαγγελματία κλέφτη και να τον πιάνει η Δικαιοσύνη; - Οι πολιτικές ευθύνες είναι δικαιολογία, δεν είναι ομολογία» #νδ_εγκληματικη_οργανωση #ΟΠΕΚΕΠΕ #Φραπές #Χασάπης #Λαχείο #Τζοκερ #Λαχεία @loukia_gatsou https://t.co/1O7ULLKcqf",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002785",
+      "source": "GREEK_X",
+      "text": "Το πήρε λίγο ανοιχτά...\n#παραμΙθάκη #Τσίπρας https://t.co/p7oAPBFfTp",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002788",
+      "source": "GREEK_X",
+      "text": "Ο @SFamellos είναι λίγος.\nΗ παρένθετη μητέρα για να έρθει ο #Τσιπρας \nΑπό την @olgagerovasili με αγάπη😳\n#Βιβλιο_Κασσελακη",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002793",
+      "source": "GREEK_X",
+      "text": "Μελος από την #νδ_εγκληματικη_οργανωση πρόεδρος του eurogroup \nΚαλά θα πάει και αυτό \n\n#χασαπης #Πιερρακακης #οπεκεπε #φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002819",
+      "source": "GREEK_X",
+      "text": "28 ευρώ για να διαβάσουμε την ιστορία ενός παλικαριού που έπαιξε τη χώρα κορώνα-γράμματα. #παραμΙΘΑΚΗ\n\nhttps://t.co/ETNW5Tv18H",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002820",
+      "source": "GREEK_X",
+      "text": "ενδιαφέρουσα η συνέντευξη του κώστα κωστή, ακόμα και αν διαφωνεί κανείς σε κάποια επιμέρους. «από τους μετανάστες θα προέρχεται ένα σημαντικό κομμάτι των ελλήνων του 2050»",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002827",
+      "source": "GREEK_X",
+      "text": "εδω ζωντανα η καταθεση του #φραπες στην #εξεταστικη της βουλης για τον #οπεκεπε.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002832",
+      "source": "GREEK_X",
+      "text": "📍ΑΔΩΝΑΡΟΣ @AdonisGeorgiadi για ακόμη μια φορά απολαυστικός !💙👏🏻\n\n#Τσίπρας #παραμΙΘΑΚΗ \n\n https://t.co/rFjcc7n65j",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002834",
+      "source": "GREEK_X",
+      "text": "χαμός στην εξεταστική: σκληρή αντιπαράθεση κωνσταντοπούλου – ξυλούρη για απειλές, διαλόγους και… πόρσε #εξεταστική #αντιπαράθεση #πολιτική #κωνσταντοπούλου #ξυλούρης",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002856",
+      "source": "GREEK_X",
+      "text": "ο,τι καλυτερο ειπωθηκε απο τον κρητικο για τις γυναικες🥰 #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002865",
+      "source": "GREEK_X",
+      "text": "πέφτει χρήμα στους μετανάστες! τι θα γίνει άραγε όταν κλείσει η «στρόφιγγα»;; vid",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_002917",
+      "source": "GREEK_X",
+      "text": "#ΟΠΕΚΕΠΕ #Φραπες \n\nΣε άλλα νέα μετά τις διαδηλώσεις &amp; το «Μαφία φύγετε» των Βούλγαρων έπεσε η κυβέρνηση! Ακόμα κι εκεί! \nΕμείς εδώ έχουμε φραπέδες, αγρότες &amp; κτηνοτρόφους στους δρόμους &amp; τον Τσίπρα να μας λέει ως «next big thing» το πόσο δίκιο έχουν οι αγρότες! \n\nΚαμία ελπίδα.",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_002919",
+      "source": "GREEK_X",
+      "text": "Οι μουσουλμάνοι μετανάστες της \n🇬🇧  πληθαίνουν &amp; ξέρουν ότι σε λίγα χρόνια θα είναι η πλειοψηφία της Χώρας.\nΕίναι ειλικρινείς με τους Βρετανούς λέγοντας τους:\n\"Η 🇬🇧 δεν είναι Χριστιανική Χώρα αλλά είναι Ισλαμική Χώρα\"\n\n Θα ενσωματωθούν οι Βρετανοί..\n👇",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Religious Bias"
+   },
+   {
+      "text_id": "EL_002922",
+      "source": "GREEK_X",
+      "text": "Η δήλωση της #ΝΔ_ξεφτίλες δικηγόρου #Κολωνός για επιλογή #12χρονη #Μιχος συμβαδίζει με ξεβλαχεμένη εβρόπι🌈βλέπε πχ Ισπανίδα υπουργός Μοντέρο για παιδεραστία ότι μπορούν να΄χουν σεκς #εκτρώσεις με συναίνεση τους (επιβεβαίωσαν χοαξις https://t.co/YSsCWdJVSA)🤡#γαμος_ομοφυλόφιλων",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002930",
+      "source": "GREEK_X",
+      "text": "Τι να πει ο #Τσιπρας..;\n#ΚΚΕ:\n\"εκτός από τον αρμόδιο υπουργό(...) Κ.Καραμανλή, προκύπτουν σαφέστατες ποινικές ευθύνες των αρμόδιων Υπ. Υποδ. &amp; Μεταφ. της περιόδου 2009–2023 για το κακουργηματικό αδίκημα της δια παραλείψεως διατάραξης της ασφάλειας των σιδηροδρ. συγκοινωνιών...\"",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_002951",
+      "source": "GREEK_X",
+      "text": "@kotompeikonaki Αν είσαι ο #Φραπες η ο #Χασαπης τότε τα έχεις κάνει 100...",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_002978",
+      "source": "GREEK_X",
+      "text": "Όπου βρίσκουν ευκαιρία διχάζουν τον κόσμο μια με τον #γαμος_ομοφυλοφιλων μια με τα #ιδιωτικα_πανεπιστημια διαιρει και βασίλευε,παλιά πετυχημενη συνταγή https://t.co/uTnYnAfooA",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003010",
+      "source": "GREEK_X",
+      "text": "Να πεις κ ένα ευχαριστώ στη Σταυρούλα που αποχώρησε οικειοθελώς κ σου άνοιξε τον δρόμο... παλτογρια!\nΘα χες φύγει εδώ κ καιρό \n#survivorGR https://t.co/9sFl4iWuZZ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003011",
+      "source": "GREEK_X",
+      "text": "η πόρσε του 25χρονου γιου #ξυλουρης που αγοράστηκε το ΄21 με 47χιλ ευρώ,σε βοακ αναπτύσει ταχύτητα ή τα μαντριά έχουν αουτομπανκ; #οπεκεπε #αγροτες #μπλοκα #εξεταστικη #κρητη #κυβερνηση_μητσοτακη ποιος είναι ο μάκης;;;;",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_003027",
+      "source": "GREEK_X",
+      "text": "Ο άλλος ο μυρωδιάς έβγαλε Φώταρα κ έβαλε τον ανύπαρκτο τον Γιακουμάκη μέσα σε ματς Τελικό \n#paofc\n#GEOGRE",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003030",
+      "source": "GREEK_X",
+      "text": "Λατρεύω Μωραϊτάκο\nΛατρεύω Βιλντόζα\nΛατρεύω Κώστακούμπο\n#paobcaktor #paobc #paofc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003033",
+      "source": "GREEK_X",
+      "text": "Μια πιο πονηρεμένη από εμένα, θα έλεγε ότι στο τέλος έτσι θα χτυπηθεί ο βαρύς γλυκός \n#Φραπες https://t.co/1WUVXPVp3k",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003035",
+      "source": "GREEK_X",
+      "text": "Στο Τουρκικο τώρα που είναι ατομικά ,αρχίσαν τις τακτικές και βγάζουν τακο τους πρωταθλητές! #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003036",
+      "source": "GREEK_X",
+      "text": "Ευτυχώς που υπάρχουν και τα Μέσα Κοινωνικής Δικτύωσης και χτυπάμε κανά #φραπές και ξεδίνουμε, γιατί μέχρι εκεί έχουμε καταντήσει και μπορούμε σαν λαός …",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003053",
+      "source": "GREEK_X",
+      "text": "Την ΠΦΑ διάλεξα τους πιο άχρηστους \nΤην ΔΦΑ θα διαλέξω τους πιο ικανούς\nΜε πιστεύετε έτσι? \n#παραμΙθακη https://t.co/Kmq6Q0aho0",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003079",
+      "source": "GREEK_X",
+      "text": "Ο απόλυτος εξευτελισμός των θεσμών (κατά βάση της Δικαιοσύνης) και του \"κυνοβουλιου\" καθώς αυτό δεν είναι πια Κοινοβούλιο. #Φραπες\nΚαι κάτι τελευταίο γιατί όταν αρνούνται τα ηχητικά δεν παίζουν επιτόπου το αυτούσιο ηχητικό;;; https://t.co/0wwtfhnww1",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003089",
+      "source": "GREEK_X",
+      "text": "δεν ταιριάζον με τπτ!! νεεχχτ #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003096",
+      "source": "GREEK_X",
+      "text": "New post: Μετανάστες: Σε κρίσιμη κατάσταση νοσηλεύονται τα τρία κοριτσάκια στο Μακάρειο Νοσοκομείο https://t.co/ZkZ569KCU9μετανάστες-σε-κρίσιμη-κατάσταση-νοση/",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003101",
+      "source": "GREEK_X",
+      "text": "τι είπε ο αηδίας: πρωτα πίνω και μετά κλ@ ; 🥶🥶🥶#firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003109",
+      "source": "GREEK_X",
+      "text": "Γαύδος: Εντοπίστηκαν και διασώθηκαν 42 μετανάστες – Συνελήφθησαν δυο άτομα #debatergr https://t.co/v2dKBriazs",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003112",
+      "source": "GREEK_X",
+      "text": "απορώ γιατί πληρώνω netflix. #εξεταστική #φραπες",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003117",
+      "source": "GREEK_X",
+      "text": "Ποσο μεγαλη διαφορα η μανα με την υπευθυνη της ΡΑΣ...η μάνα δεν έχει να φοβάται τίποτα...αυτή όμως πολλά.\n@syriza_gr\n@neademokratia\nΑς ασχοληθούμε  με τον #γαμος_ομοφυλοφιλων\n@PrimeministerGR\n@PresidencyGR\n#καρυστιανου\n#Τεμπη\n#Τέμπη_εγκλημα\n#κακοκαιρια\n\nhttps://t.co/72bz3Ecv8h",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003118",
+      "source": "GREEK_X",
+      "text": "μόνο οι αριστεροί δεν καταλαβαίνουν ότι ο μεγαλύτερος εχθρός της εργατικής τάξης είναι οι μετανάστες. με εξαίρεση τον έντυ.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_003119",
+      "source": "GREEK_X",
+      "text": "Τα χάπια της τα πήρε η Ζωή?\n#παραμΙΘΑΚΗ https://t.co/6FpbQq5rqY",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003131",
+      "source": "GREEK_X",
+      "text": "#εγκληματικοτητα #λαθρο μιας και αλλοδαποί είναι και οι άλλοι με βίζες και διαβατήρια... άλιμος: συνελήφθη ο αλλοδαπός που έκλεψε σταυρό από γυναίκα ενώ τον έγραφε η κάμερα",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003138",
+      "source": "GREEK_X",
+      "text": "με τόσα λεφτά θα πάρετε και πόρσε και φεράρι!!! και αν πάει κάτι στράβα, μην ανησυχείτε: εγώ θα σας ελέγξω... #αγροτες_μπλοκα #αγροτες #κυβερνηση_μητσοτακη #μπλοκα #νδ_εγκληματικη_οργανωση #νδ_μαφια #νδ_σκανδαλα #οπεκεπε #σεμερτζιδου #μαγειριας #φραπες #χασαπης #εξεταστικη #βουλη",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Socioeconomic / Educational Bias"
+   },
+   {
+      "text_id": "EL_003145",
+      "source": "GREEK_X",
+      "text": "Στην αφροασιατική Βαϊμάρη το Σύνταγμα\nείναι ένα κωλόχαρτο για τους φιλελέδες.\n\n#γαμος_ομοφυλοφιλων \n#ιδιωτικα_πανεπιστημια",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003148",
+      "source": "GREEK_X",
+      "text": "Νάρκισσος ο Βαρουφάκης,νάρκισσος η Κώ/λου\nΑλήθεια,ο ίδιος δεν είναι?\n#παραμΙΘΑΚΗ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003155",
+      "source": "GREEK_X",
+      "text": "#firstdatesgr πουθενατζης",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003176",
+      "source": "GREEK_X",
+      "text": "Εγώ θα το αγόραζα μόνο για να δω πώς γεμίζεις 762 σελίδες με τόσο λίγα συμβάντα αυτοκριτικής. #παραμΙΘΑΚΗ\n\nhttps://t.co/cZot05BEP3",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003180",
+      "source": "GREEK_X",
+      "text": "Δεκάδες μετανάστες εντοπίστηκαν στα ανοιχτά του Ηρακλείου - Εξέπεμψαν σήμα κινδύνου https://t.co/G7yZoooFU7 https://t.co/2W4TRMZzco",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003182",
+      "source": "GREEK_X",
+      "text": "Σουργιελλα είναι;; η Συρεγγέλα;;;;  #Φραπες https://t.co/XxK3rq3eaW",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003242",
+      "source": "GREEK_X",
+      "text": "άλλη μια αντιγραφή από #eisaitotairimou #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003257",
+      "source": "GREEK_X",
+      "text": "ΚΑΘΗΚΙ\n\nΑναγραμματισμός στην \n#Ιθάκη\n#Τσιπρας",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003264",
+      "source": "GREEK_X",
+      "text": "η #εξεταστικη είναι σαν να βλέπεις remake τις αθάνατες εκπομπές της σίας λιαροπούλου",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003270",
+      "source": "GREEK_X",
+      "text": "Πήρες εκπομπή μη μας κουνάς και το δάχτυλο Γιάμαλη πήγαινε σε κάνα μπουζούκι με το Ρούτσι  #EkselikseisTora",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003280",
+      "source": "GREEK_X",
+      "text": "«Οι ιδεολογικές …ετικέτες του παρελθόντος [‘αριστερός’ και ‘δεξιός’] έχουν χάσει προ πολλού το νόημά τους …Η διαχωριστική γραμμή είναι οριζόντια. Πατριώτες εναντίον εθνομηδενιστών. Και παραδοσιακοί εναντίον ‘δικαιωματιστών’»\n\n#δεξια #γαμος_ομοφυλοφιλων \n\nhttps://t.co/0DwCl7AdQ0",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003287",
+      "source": "GREEK_X",
+      "text": "η κατερίνα μπήκε 35 και έφυγε 50. πώς πέρασε έτσι ο χρόνος ,ρε παιδί μου?? #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_003317",
+      "source": "GREEK_X",
+      "text": "14χρονος αλλοδαπός κατηγορούμενος για επικίνδυνη σωματική βλάβη κατά συναυτουργία και ληστεία σε βάρος 15χρονου... τα \"ασυνόδευτα\" των #λαθρο-εισβολέων επενδυτών εν δράσει #ελληνικη_λυση #βελόπουλος",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003334",
+      "source": "GREEK_X",
+      "text": "ΗΠΑ: Οι αρχές \"προστασίας του παιδιού\" πήραν δια της βίας ένα 14χρονο κορίτσι για να κάνει «μετάβαση» φύλου, παρά την θέληση των γονέων https://t.co/No8PNhDFJz #γαμος_ομοφυλοφιλων #ομοφυλα #ιερα_συνοδος #λοατκι #Τεκνοθεσια",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003356",
+      "source": "GREEK_X",
+      "text": "πανε να κανουν εμφυλιο για 6.000.000 παρανομους χριστιανους τη ν3ετία δηλαδη επειδη σε 3 χρονια μπουκαρε το 1.5% του πληθυσμου σε μεταναστες και εμεις εδω με τους ααλλαχκμπαρηδες πουλαμε ''προοδευτιμσο''",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003361",
+      "source": "GREEK_X",
+      "text": "#ΤΕΛΕΣΙΓΡΑΦΟ #ΜΠΙΝΤΈ(ν) στους #τεξανους #φρουρούς να ανοίξουν τα #σύνορα να μπουν #μετανάστες από το νότο, για το #great_reset. #Δυνάμεις από 15 #Πολιτείες  προσκειμενες στον Πρόεδρο #Τραμπ #σπεύδουν για να εμποδίσουν #ΠΑΝΣΚΑΤΟΠΟΙΗΣΗ..\n#ΗΠΑ:ΠΡΟΣ #ΕΜΦΥΛΙΟ !\nhttps://t.co/VpxTjQU25Z",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003370",
+      "source": "GREEK_X",
+      "text": "@Nickfarc19 @VagianosD @anarxoiskiotos @ximeio Μπορουν να εφαρμοστουν,ομως οι σημερινοι πρωτοποροι εχουν μια μεγαλη ευθυνη: να συμπεριλαβουν συγχρονα κινηματα συμμαχους της εργατικης ταξης, εργατες αγροτες φοιτητες - μαυροι γκει  μεταναστες κλπ.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003393",
+      "source": "GREEK_X",
+      "text": "το ελεύθερο κάμπινγκ ενοχλούσε!!!! τώρα όλα καλά #λαθρο #απελασεις #απελαση #νδ_συμμορια #νδ_ξεφτιλες #μητσοτάκη_καθαρμα #λαθρομεταναστες #μμε_ξεφτιλες #μμε_βοθρος #μμε_αποπατος",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003395",
+      "source": "GREEK_X",
+      "text": "Η #Ελλάδα είναι ένα οθωμανικό κ0λ0χώρι με μερικά αρχαία μνημεία. Ενα πλαστό κράτος που επιβιώνει απο δανειστές-προστάτες. Δεν παράγει τίποτε. Ένας λαός βαλκανόγυφτες με κόμπλεξ για την καταγωγή τους\n#25η_Μαρτιου_1821 #survivorGR #Τασουλας #nyxtaapokalypseon ΕΛΤΑ #σεισμος Μαντισα https://t.co/BmlzjYL4wp",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration / Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003399",
+      "source": "GREEK_X",
+      "text": "Καλά κάνει η εκκλησία.εδω αλλά κράτη που δεν είναι χριστιανοι κ τον #γαμος_ομοφυλοφιλων δεν τον δέχονται....εμείς εδώ χωρίς κανένα ενδοιασμό κ μάλιστα με παρτυ,γράφουμε τον κόσμο κ την @Ecclesia_gr κ κάνουμε οτι θέλει η @PresidencyGR\n&amp; ο @PrimeministerGR\nhttps://t.co/FpCZPP4KDA",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003426",
+      "source": "GREEK_X",
+      "text": "Για τους συντρόφους \"συγκάλυψη\" δεν είναι σε καμμία περίπτωση το \"Τι ώρα πετάνε αύριο τα πτητικά;\"\n#ΟΝΟ_ΟΝΟ_ΗΤΩ\n#Τσιπρας \n#Τεμπη_συγκαλυψη",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003431",
+      "source": "GREEK_X",
+      "text": "Το να πηγαίνουμε κόντρα στους φυσικούς νόμους κάθε λίγο μας κάνει τους ασεβέστερους όλων στην μητέρα Γη. Για τους υπέρμαχους της πράσινης ανάπτυξης πάει λίγο περισσότερο! Με το ΚΚΕ για πάντα που λέει το λογικό! #γαμος_ομοφυλοφιλων #ΚΚΕ",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003457",
+      "source": "GREEK_X",
+      "text": "Δεύτερη φορά που ο Γκιουλεκας δίνει κρόκο σε συμπαίχτη του μια με παπα(χα)Ρα και μια με Χριστόφορο..οι παιχνιδαδες δεν βλέπουν;; #survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003459",
+      "source": "GREEK_X",
+      "text": "Κάντον αλλαγή ρε μαλάκα, έχουμε ντέρμπι τη Κυριακή, τον έχεις αφήσει όλο το ματς και σκοράρει κιόλας..\n#paofc",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_003460",
+      "source": "GREEK_X",
+      "text": "ψυχακηδες ολουθε γύρω μας.... #firstdatesgr",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003470",
+      "source": "GREEK_X",
+      "text": "🗣️ \"Σήμερα μπορούμε να δούμε πώς η Ευρώπη αντιμετωπίζει εντελώς διαφορετικά τις ακροδεξιές κυβερνήσεις, απ’ ότι αντιμετώπισε μία αριστερή κυβέρνηση\" \n\n#Τσιπρας #Vradini \n\nhttps://t.co/JXM355Byqi",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003489",
+      "source": "GREEK_X",
+      "text": "του το έχει δώσει στο πιάτο.... #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003495",
+      "source": "GREEK_X",
+      "text": "να βολευτώ τώρα όπως-όπως και για μετά δε δίνω δεκάρα.\nΚαι τώρα καταλαβαίνεις γιατί οι μετανάστες Έλληνες, ιδίως εξ Αμερικής, νομίζουν ότι η Ελλάδα κόλλησε στο 1957. Όχι από υποτίμηση στην σημερινή αλλά από άρνηση να δεχτούν τόση ασχήμια.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003513",
+      "source": "GREEK_X",
+      "text": "📢 συριζα και νέα αριστερά ζητούν την βίαιη προσαγωγή του γ. ξυλούρη στην εξεταστική επιτροπή. προβληματισμός για τις τελευταίες καταθέσεις. #οπεκεπε #συριζα #νεααριστερα #γεωργιοσξυλουρης #εξεταστικη #ειδήσεις #news #greeknews",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003530",
+      "source": "GREEK_X",
+      "text": "εδώ οι φασίστες γράφουν ότι το 90% των ελλήνων θεωρεί ότι έχουμε υπερβολικούς #λαθρομετανάστες! αποκλειεται! λενε ψεματα! αφού μας διαβεβαιώνει ο αγαπητός κος ότι τον παρακαλούν και του λένε ότι η νομιμοποίηση 600.000 #λάθρο είναι μικρό νούμερο. #νδ_ξεφτιλες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003557",
+      "source": "GREEK_X",
+      "text": "Συνελήφθη διακινητής ο οποίος προωθούσε στο εσωτερικό της χώρας μη νόμιμους μετανάστες https://t.co/nURtewYyRO",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003559",
+      "source": "GREEK_X",
+      "text": "Η αλήθεια χωράει σε 2 σελίδες. Οι δικαιολογίες χρειάζονται 760. Τυχαίο; Δε νομίζω. #παραμΙΘΑΚΗ\n\nhttps://t.co/NCK2izt5k2",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003567",
+      "source": "GREEK_X",
+      "text": "Λαρίσης: Εξετάζουμε κατά πόσο μπορούμε να δεχθούμε τον νηπιοβαπτισμό σε τεκνά ομοφύλων ζευγαριών https://t.co/K42sC4seub #γαμος_ομοφυλοφιλων #γαμος_ομοφυλων #ομοφυλα #ιερα_συνοδος #λοατκι",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003597",
+      "source": "GREEK_X",
+      "text": "η εκπομπή περιείχε τοποθέτηση προιόντων #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003621",
+      "source": "GREEK_X",
+      "text": "ξανά μετανάστες στη γαύδο via νέα",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003628",
+      "source": "GREEK_X",
+      "text": "@Celesta91883911 Δεν χρειάζεται vpn. Εάν γράψεις μια ανάρτηση του στυλ, τι ωραία που είναι οι γκευ να υιοθετούν παιδάκια και είμαστε όλοι μετανάστες, θα τρέχει το μηχάνημα 😂😂",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003644",
+      "source": "GREEK_X",
+      "text": "Αυτό κράτησε το τσιμπουκι της νδ \n\nΓΑΜΩ ΤΑ ΣΠΙΤΙΑ ΣΑΣ ΥΠΟΓΑ ΤΗΣ ΝΔ \n\nΜΟΥΝΟΠΟΝΑ #νδ_εγκληματικη_οργανωση #ΝΔ_σκανδαλα #αγροτες_μπλοκα #φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003654",
+      "source": "GREEK_X",
+      "text": "ΣΥΡΙΖΑ – Κομβικός ο ρόλος Τσίπρα στην επιλογή Κατσέλη\nhttps://t.co/sp0yyp7yvW\n#VoiceNews #ΣΥΡΙΖΑ #Τσιπρας #Κατσελη https://t.co/iFZyA16c7F",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003655",
+      "source": "GREEK_X",
+      "text": "@vickyflessa οι συγχρονοι εικονομαχοι ειστε εσεις ,οι ανωμαλοι ΛΟΑΤΚΙστες, που επιδοτειτε αυτά να παρελαυνουν μπροστα στη Βουλη και τον Αγνωστο Στρατιωτη \n#γαμος_ομοφυλοφιλων https://t.co/ZOv7sUws13",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Gender / Identity bias"
+   },
+   {
+      "text_id": "EL_003656",
+      "source": "GREEK_X",
+      "text": "2 λαθρο στην αμερικη κακοποιουσαν για 2 ολοκληρες ωρες αυτο το ανηλικο κοριστακι και μετα το δολοφονησαν... κατα τα αλλα refugees wellcome #λαθρο #λαθρομεταναστευση",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003663",
+      "source": "GREEK_X",
+      "text": "Τουλάχιστον 107 μετανάστες περισυνελέγησαν σε δυο περιστατικά νοτιοδυτικά της Γαύδου #capitalgr https://t.co/jnMLB1FOuA https://t.co/SRyL51qwwe",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003666",
+      "source": "GREEK_X",
+      "text": "Τρένο με 325 επιβάτες ακινητοποιήθηκε σε σήραγγα μεταξύ Λαμίας - Βόλου https://t.co/Ny3ID2FrOe #τεμπη_εγκλημα",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003668",
+      "source": "GREEK_X",
+      "text": "Το πόρισμα της Πυροσβεστικής απέδειξε πόσο ανήθικοι και επικίνδυνοι είναι για τη Δημοκρατία!\n#Τεμπη_εργαλειοποιηση",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003686",
+      "source": "GREEK_X",
+      "text": "Καημένο πιόνι…!\n\n#γαμος_ομοφυλοφιλων  #βουλή https://t.co/5T899I8vgA",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003706",
+      "source": "GREEK_X",
+      "text": "@Ellinofreneia @jacobin_gr17 Κερναμε Λιλο .....#τεμπη_εργαλειοποιηση https://t.co/9eSIXv73Qe",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003743",
+      "source": "GREEK_X",
+      "text": "@velopky Πανε να κανουν εμφυλιο για 6.000.000 παρανομους Χριστιανους τη ν3ετία\n\nΔηλαδη επειδη σε 3 χρονια μπουκαρε το 1.5% του πληθυσμου σε μεταναστες\n\nΚαι εμεις εδω με τους Ααλλαχκμπαρηδες πουλαμε ''προοδευτιμσο''",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003752",
+      "source": "GREEK_X",
+      "text": "έτσι κάνουν πάντα οι φασίστες - πάνε και χτυπάνε παιδιά και κοριτσάκια και πεινασμένους μετανάστες. φτου στα μούτρα σας αποβράσματα",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003764",
+      "source": "GREEK_X",
+      "text": "Να πάει ο Ιβαν στην #Ethniki να κάνει τι; Να παίρνει χαρτάκια για κλήσεις;\nΣτις ήττες να βγαίνουν ορκ,χανουμια και γαύροι να τον λένε λουζερ;\nΝα κάνει τι; Να βλέπει το σταφ του απλήρωτο;\n\nΙβαν μακριά από αυτή την εθνική. Απέχεις πολύ από αυτήν και κυρίως το ήθος σου #paofc https://t.co/ZcIF3WOhTM",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003765",
+      "source": "GREEK_X",
+      "text": "Παπατρέχα φύγε επιτέλους  #survivorGR",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003773",
+      "source": "GREEK_X",
+      "text": "δε καπνίζει δε πίνει δεν ξενυχτάει αλλα είναι 35 κ φαίνεται 50 #firstdatesgr",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_003775",
+      "source": "GREEK_X",
+      "text": "REPORTAZ NET: Ναυάγιο με μετανάστες στο Φαρμακονήσι: Tέσσερα άτο... https://t.co/p6HVDoTEmp",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003781",
+      "source": "GREEK_X",
+      "text": "Τυνησία: Δύο έφηβοι μετανάστες πέθαναν σε φορτηγό ψυγείο πάνω σε πλοίο με προορισμό την Ευρώπη https://t.co/5bnNOO21LW",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003783",
+      "source": "GREEK_X",
+      "text": "ούτε στη κωμική σειρά ορκιστείτε παρακαλώ δεν ακουγόντουσαν τέτοιοι διάλογοι #οπεκεπε #εξεταστικη #φραπε #σεμερτζιδου",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003789",
+      "source": "GREEK_X",
+      "text": "ευτυχώς ξεκινάει το #firstdatesgr και θα γελάσουμε και λίγο. πήξαμε στη τοξικότητα που βλέπουμε στα άλλα παιχνίδια #temptingfortunegr #farmagr",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_003792",
+      "source": "GREEK_X",
+      "text": "πως να υπάρξει το ερωτικό? ούτε στη φυλακή δε γίνονται αυτά! ούτε καταναγκαστικά! 😴😯🤓 #firstdatesgr",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003816",
+      "source": "GREEK_X",
+      "text": "Για να μην έχουμε αυταπάτες.Όυτε με τον λαϊκισμό τελειώσαμε σήμερα,ούτε με την τοξικότητα και φυσικά ούτε και με τον ίδιο τον Τσίπρα.Κερδίσαμε όμως μια σημαντική μάχη με πρωταγωνιστή τον μεγαλύτερο πολιτικό ηγέτη της μεταπολίτευσης,τον Κυριάκο Μητσοτάκη.Συνεχίζουμε.\n#Μέχρι_τέλους",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003841",
+      "source": "GREEK_X",
+      "text": "Για τη σκιώδη κυβέρνηση, αυτή είναι μια ευπρόσδεκτη ευκαιρία να καταστρέψει την κοινωνία στρέφοντας τους μετανάστες και τους ντόπιους τον έναν εναντίον του άλλου.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003842",
+      "source": "GREEK_X",
+      "text": "● ψύχραιμος τούρκος αναλυτής: “να στείλουμε στα νησιά των ελλήνων χιλιάδες μετανάστες ώστε αντί να αγοράζουν f-16 να ασχολούνται με αυτούς” [βιντεο]",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003843",
+      "source": "GREEK_X",
+      "text": "Η \"Ιθάκη\" του Τσίπρα θυμίζει #παραμΙΘΑΚΗ που γράφτηκε βιαστικά, χωρίς να αλλοιωθεί ούτε μια έννοια από το αρχικό χειρόγραφο του Πινόκιο...",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003851",
+      "source": "GREEK_X",
+      "text": "@avgias @Arkadios_Voskos Αν ημασταν αδελφοι με τους Ρωσους δεν θα στελναμε βοηθεια στην Ουκρανια... επισης δεν ψηφιζαμε υπερ του #γαμος_ομοφυλοφιλων μιας κ εχουμε την ιδια θρησκεια κ δεν θα ειχαμε κανει τη χωρα κεντρο διερχομενων λαθρομεταναστων κ κεντρο υποθαλψης εγκληματιων...",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_003854",
+      "source": "GREEK_X",
+      "text": "αν σε λέει γκάγκστερ ένα βουλευτής ή υπουργός της #νδ_ξεφτιλες στείλτε του εξώδικο ,έτσι κάνουν αυτές οι κότες με λυρί #εξεταστικη #οπεκεπε #αγροτες_μπλοκα",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003859",
+      "source": "GREEK_X",
+      "text": ". ρε μακαριτη θα με κάνεις να την ψηφίσω με τις βλακείες που λες..... τα χάλια τού αφεντικού σου δεν τα βλέπεις; #λαζαριδης #οπεκεπε #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Cognitive / Intelligence bias"
+   },
+   {
+      "text_id": "EL_003870",
+      "source": "GREEK_X",
+      "text": "ως braingain με phd στα άστρα,να πω ότι καταρρέει όλη η λασπολογία ότι ο φίλτατος κυριάκος είναι γρουσούζης,η #εξεταστική καταδεικνύει πως με όποι@ αγρότη-ισσα της παράταξής μας έχει ένθερμο ενσταντανέ,κερδίζει το #τζοκερ. στηρίζω! #οπεκεπε #σεμερτζίδου #πόπη #χασάπης #φραπές",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003891",
+      "source": "GREEK_X",
+      "text": "θα προκριθουμε στα πεναλτι με πανενκα χατζηγιοβανη #paofc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003905",
+      "source": "GREEK_X",
+      "text": "Μπορεί ο #Φραπες με το #χασαπης να ρίξουν το #Μητσοτάκης ;\n#ΜΠΛΟΚΑ #μπεζος #μαγειριας #κακοκαιρια #Κωνσταντοπουλου #τσίπρας #Τουρκια #ταξι #Λυγγεριδης #λουτρακι #Τραμπ #δολοφονια #Φοινικούντα #αγροτες_μπλοκα #αγροτικες_κινητοποιησεις #θέατρο_προτάσεις #θέκλα #σεισμός",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003913",
+      "source": "GREEK_X",
+      "text": "@GioKoutras Επίσης όποιος δεν ψηφίζει #Μητσοτάκη  είναι ακροδεξιός φασίστας που στόχο έχει την κατάλυση του πολιτεύματος και πρέπει  να συλληφθεί προληπτικά. Τέτοιες γελοιοτητες ούτε ο #Τσίπρας δεν έλεγε όταν ξεπουλουσε την #Μακεδονία",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_003927",
+      "source": "GREEK_X",
+      "text": "Η ένωση Βιομηχάνων ζητά μετανάστες από Τρίτες χώρες για 90.000 κενές θέσεις εργασίας https://t.co/Dlh7LEaqau",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003938",
+      "source": "GREEK_X",
+      "text": "τι μέρες/ώρες παίζει το #firstdatesgr;",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003955",
+      "source": "GREEK_X",
+      "text": "ο καθένας έχει τα δικά του δίκια και τα δικά του δύσκολα. καταρχάς ότι γράφει για την αουρόρα ισχύει για όλους τους ελληνες μετανάστες και τους μετανάστες ανα τον κόσμο γενικότερα. και παμε να αναφέρω μια ιστορία που δεν έχει παιδάκια και καθαρίστρια αλλα έχει αλλα στοιχεία που",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003968",
+      "source": "GREEK_X",
+      "text": "ΑΠΟΚΛΕΙΣΤΙΚΗ ζωντανή σύνδεση από την επίσημη παρουσίαση του βιβλίου του Αλέξη Τσίπρα!\n#παραμΙΘΑΚΗ\n#ιθάκη \n#Τσίπρας https://t.co/EBC1gNd3p9",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003969",
+      "source": "GREEK_X",
+      "text": "στο 3% ο πληθωρισμός στην ελλάδα το νοέμβριο σύμφωνα με την eurostat #firstdatesgr #thanksgiving #blackfriday #ξανθη #olympiacosbc #παρτιζαν #αποστολακης #nmvradiatika #γουιλιαν #αλβανοι",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003970",
+      "source": "GREEK_X",
+      "text": "Το παλαιότεροι ξύλινο σχολείο στις ΗΠΑ είναι ένα Ελληνικό σχολείο που φτιάχτηκε το 1716 στον Άγιο Αυγουστίνο της Φλώριδας από τους πρώτους Έλληνες μετανάστες.  https://t.co/dORCOqzs00",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003986",
+      "source": "GREEK_X",
+      "text": "@Chris_Motley_13 Δυστυχώς ο Ρούτσι ξεφτίλισε τον εαυτό του και όσους τον παρότρυναν.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_003988",
+      "source": "GREEK_X",
+      "text": "οι υποκλοπές επέφεραν μεγάλο πλήγμα στο προφίλ του \"προοδευτικού\", που προσπαθούσε να χτίσει. για τις υποκλοπές δεν μπορεί να κάνεις κάτι, οπότε κάνει για όλα τα άλλα: μετανάστες, λοατκι, ελληνοτουρκικά,...",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004008",
+      "source": "GREEK_X",
+      "text": "η αρχή της ... αυτοβοήθειας ή το να χέρι νίβει το άλλο και τα δυο τον #οπεκεπε #αγροτες #φραπε #εξεταστικη #βουλη",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_004012",
+      "source": "GREEK_X",
+      "text": "αφγανός κηρύττει τζιχάντ σε παρκαρισμένα οχήματα. #λαθρομεταναστες #λαθρο #νδ_ξεφτιλες",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Religious Bias"
+   },
+   {
+      "text_id": "EL_004014",
+      "source": "GREEK_X",
+      "text": "Στη Γαύδο παραμένουν οι 74 μετανάστες που εντοπίστηκαν χθες στην περιοχή του Κόρφου στο ακριτικό νησί https://t.co/1NvViQcsge #newshubgr #crete #ellada #ενημέρωση #nea",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004020",
+      "source": "GREEK_X",
+      "text": "«επικαλούμαι το δικαίωμα σιωπής» γεώργιος ξυλούρης, παραγωγός aka φραπές #οπεκεπε #σκανδαλο_οπεκεπε #εξεταστικη #βουλη #φραπες",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004023",
+      "source": "GREEK_X",
+      "text": "Αρχιεπίσκοπος Ιερώνυμος για ομόφυλα: «Δεν σας εύχομαι γάμους τέτοιου είδους»\n#γαμος_ομοφυλοφιλων #press \nhttps://t.co/PpnZzvdnbX https://t.co/LakCtVTJjU",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004034",
+      "source": "GREEK_X",
+      "text": "Τετοια κουμασια βγαζει κατα βαση η Κρητη. Ακου λεβεντογεννα χαχαχα. Μονο κλεφτογεννα, απατεωνογεννα και εγκληματογεννα ειναι. Ενα νησι μεσα στην βρωμια 🤮🤮🤮🤮🤮🤮#Φραπες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_004042",
+      "source": "GREEK_X",
+      "text": "πρέπει κάτι να γίνει αναγκαστικά. δεν πάει άλλο. έχουμε γεμίσει με τα αποβράσματα της κοινωνίας που αλέθουν στη χώρα μας με παρανομίες κάθε είδους. έξω τωρα #λαθρο #νδ_ξεφτιλες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_004054",
+      "source": "GREEK_X",
+      "text": "Ένας ζαίος Οδυσσέας...\nΑφού χάθηκαν στο πέλαγος οι σύντροφοί του, τους κάνει πατητή να πνιγούν τελείως και τώρα ψάχνει νέο πλήρωμα για να βάλει την Ελλάδα σε νέα Οδύσσεια.\nΝαι, τοξικοί κ άχρηστοι ήταν, όπως και ο ίδιος.\n#παραμΙΘΑΚΗ https://t.co/GDCyGMahIO",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004056",
+      "source": "GREEK_X",
+      "text": "Μαμα Δωρα εισαι ΠΑΙΧΤΟΥΡΑΑ ❤️‍🔥\n#survivorGR",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004058",
+      "source": "GREEK_X",
+      "text": "μαλάκα τι ζούμε βάλτε όλοι κανάλι βουλή !!!!!! #φραπες #οπεκεπε #εξεταστικη",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_004065",
+      "source": "GREEK_X",
+      "text": "@jazz_daz Ε λοιπόν ας μη μαλακίζονται και οι άλλοι.Τη μια μετανάστες,την άλλη BLM.",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004090",
+      "source": "GREEK_X",
+      "text": "@NIKSOTIROPOYLOS Αυτά θυμόμαστε και έχουμε ξεχάσει #τεμπη χιλιάδες νεκρούς εκτός μεθ και ξεψυχοντας περιμένοντας ασθενοφόρο ανθρώπους να τους πετάνε στο δρόμο.Α και κάτι ακόμα τόσοι υπουργοί που προκύπτουν ποιος θα τους πληρώσει; Εμένα δεν μου έχει μείνει μια..",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_004096",
+      "source": "GREEK_X",
+      "text": "Επικαλούμαι το δικαίωμα της σιωπής..  #φραπες https://t.co/xonorf5VMC",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004103",
+      "source": "GREEK_X",
+      "text": "Μια σκέψη \nΟ Μαγγειριας αγόρασε την φερραρι το 2004 όπως δείχνει η άδεια. \nΆρα τα χρόνια που μαζευε τα λεφτά έκανε απατεωνιές με κυβέρνηση @pasok \n#εξεταστικη\n#αγροτικες_κινητοποιησεις\n#ΜΠΛΟΚΑ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004111",
+      "source": "GREEK_X",
+      "text": "Ο Τσίπρας έγραψε ένα βιβλίο που επιβεβαίωσε όσα λάθη του καταλογίζουν πολιτικά από το 2015 για να έρθει στη συνέχεια να ζητήσει την ευλογία μας να τα ξανακάνει. #παραμΙΘΑΚΗ",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004115",
+      "source": "GREEK_X",
+      "text": "πασοκ στην #εξεταστικη, #νδ_εγκληματικη_οργανωση στον #οπεκεπε, αλλά και στις εκλογές του 2019. #χασαπης",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004118",
+      "source": "GREEK_X",
+      "text": "Να καεί ,να καεί ...\n#γαμος_ομοφυλοφιλων #Τεμπη_έγκλημα #Τεμπη_συγκαλυψη #12χρονη #Μιχος #Λιγνάδης #Λευκοβιτς #Ματι #μαστροπεία https://t.co/sh6h4VrBLd",
+      "toxicity": "Explicit",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004119",
+      "source": "GREEK_X",
+      "text": "Μπράβο δώρα\nΤους άλλαξες τα φώτα  #survivorGR https://t.co/W4XvxQvJS3",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004123",
+      "source": "GREEK_X",
+      "text": "@dandronikides @ellada24 Οχι βέβαια. Σε μετανάστες ,ρομά , νεοδημοκράτες",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_004125",
+      "source": "GREEK_X",
+      "text": "“Μύγες και κουνούπια”!\n#οτιναναι #τεμπη_εργαλειοποιηση https://t.co/6CesCNnXDD",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004146",
+      "source": "GREEK_X",
+      "text": "Η Ελλάδα είναι από τις χώρες με τη μεγαλύτερη ανεργία στον Κόσμο. \n\nΓιατί θέλουν μετανάστες. Θέλουν ΣΚΛΑΒΟΥΣ που δεν θα μπορούν να σηκώσουν κεφάλι γιατί θα απελαθούν στο λεπτό και θα αντικατασταθούν με άλλους σκλάβους https://t.co/IPQYbS9Md8",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Migration /  Ethnic Bias"
+   },
+   {
+      "text_id": "EL_004153",
+      "source": "GREEK_X",
+      "text": "Κυριάκος Βελόπουλος: «Ντεκαφεϊνέ και λάιτ ο “Φραπές” – Αγρότες κλείστε τους δρόμους σας κοροϊδεύουν»\nhttps://t.co/wDQm9a2nZT\n#Βελόπουλος #Φραπες https://t.co/J4dysZw2Ow",
+      "toxicity": "Implicit",
+      "target_type": "Individual",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004158",
+      "source": "GREEK_X",
+      "text": "άντε και στην ελλάδα μας σύντομα. ας τελειώσουμε με τα γελοία θέματα κι ας ασχοληθούμε με τα σοβαρά, που αφορούν εμάς και τα παιδιά μας. #λαθρο",
+      "toxicity": "Explicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_004184",
+      "source": "GREEK_X",
+      "text": "Ο Φορτούνης θα έπρεπε 100% να είναι βασικός στην εθνική, δεν καταλαβαίνω όμως γιατί τα βάζετε με τον Μπακασετα, λες και εκείνος τον έδιωξε.\n\nΤο θέμα σας είναι ότι γύρισε στην Ελλάδα και είναι πια αντίπαλος, μέχρι πριν ένα 3μηνο είχε διαφορετική αναγνώριση.\n\n#ethnikielladas\n#paofc",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004190",
+      "source": "GREEK_X",
+      "text": "Αλέξης Τσίπρας: «Το σημερινό καθεστώς οδηγεί την πατρίδα στα βράχια»\n\n#Τσίπρας #ΑλέξηςΤσίπρας \n\nhttps://t.co/6uE00UcS3v",
+      "toxicity": "Implicit",
+      "target_type": "Other",
+      "bias_type": "Institutional / Media Bias"
+   },
+   {
+      "text_id": "EL_004193",
+      "source": "GREEK_X",
+      "text": "Αυτό το τρομαγμένο βλέμμα του #Φραπες  ήταν μια μικρή δόση ικανοποίησης!",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004208",
+      "source": "GREEK_X",
+      "text": "\"Επικαλουμαι το δικαιωμα της κλοπης\"\n#Φραπες #νδ_εγκληματικη_οργανωση #ΝΔ_ΣΥΜΜΟΡΙΑ \n#ΝΔ_ΜΑΦΙΑ",
+      "toxicity": "Explicit",
+      "target_type": "Group",
+      "bias_type": "Political / Ideological Bias"
+   },
+   {
+      "text_id": "EL_004246",
+      "source": "GREEK_X",
+      "text": "Πήγε ένα ψευτόμαγκας με ανοικτό πουκάμισο στην βουλή, τους ξεφτίλισε, τους απείλησε και έφυγε σαν κύριος #Φραπες #ΟΠΕΚΕΠΕ",
+      "toxicity": "Explicit",
+      "target_type": "Individual",
+      "bias_type": "Appearance / Physical Bias"
+   },
+   {
+      "text_id": "EL_004247",
+      "source": "GREEK_X",
+      "text": "Στους Καλούς Λιμένες του Δήμου Φαιστού, δεκάδες ακόμη μετανάστες, μετά την επιχείρηση επιβίβασής τους σε σκάφη του Λιμενικού. https://t.co/z5eXe3INQq",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004252",
+      "source": "GREEK_X",
+      "text": "Δεν έχει ξαναγίνει να παίζει η καλύτερη παίκτρια της ομάδας 5 παιχνίδια μόνο αυτή την εβδομάδα επειδή θέλουν να σπρώξουν τα παλτά των μπλε σε Αριάδνη-Μιλένα \n\nΚαι από πάνω να δέχεται ψυχολογικό πόλεμο σε κάθε της κίνηση \n\nΑΔΙΑΝΟΗΤΟ\n#survivorGR https://t.co/YHHAMFbTZK",
+      "toxicity": "Implicit",
+      "target_type": "Group",
+      "bias_type": "None"
+   },
+   {
+      "text_id": "EL_004269",
+      "source": "GREEK_X",
+      "text": "διμερές ότι σφαχτηκαν περίπου 100 μετανάστες στα σύνορα της ισπανίας; κρίμα γιατί παλιότερα ήσασταν περισσότερο αντικειμενική.",
+      "toxicity": "Neutral",
+      "target_type": "None",
+      "bias_type": "None"
+   }
+]

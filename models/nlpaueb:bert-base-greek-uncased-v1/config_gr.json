@@ -1,0 +1,8 @@
+{
+  "model_name": "nlpaueb/bert-base-greek-uncased-v1",
+  "dropout": 0.1,
+  "tox_weight": 1.0,
+  "bias_weight": 0.7,
+  "tgt_weight": 0.7,
+  "neutral_id": 2
+}

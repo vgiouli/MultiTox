@@ -29,9 +29,9 @@ The table reports record counts for the experimental splits. The German row give
 
 | Language | Dev | Train | Test | Total |
 | --- | ---: | ---: | ---: | ---: |
-| German (DE) | 805 | 6,443 | 806 | 8,054 |
-| Greek (EL) | — | — | — | — |
-| **Total** | — | — | — | — |
+| German (DE) | 744 | 5,951 | 744 | 7,439 |
+| Greek (EL) | 531 | 4.250 | 532 | 5,313 |
+| **Total** | 1,275 | 10,201 | 1,276 | 12,752 |
 
 
 
