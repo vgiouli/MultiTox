@@ -1,4 +1,4 @@
-# Beyond Explicit Toxicity
+# MultiTox: Beyond Explicit Toxicity
 
 This repository contains a German–Greek corpus for research on explicit and implicit toxic language, developed within EmoBot, an LLM-based educational system for second and foreign language learning. Both language components contain written text and use the same three-layer annotation scheme for toxicity type, bias type, and target type.
 
