@@ -47,7 +47,9 @@ The table reports record counts for the experimental splits. The German row give
 
 ## To cite this work
 
-If you use the corpus, please cite *Beyond Explicit Toxicity: A German–Greek Dataset for Implicit Toxic Speech Detection*, accepted to Findings of EACL 2027.
+If you use the corpus, please cite as:
+
+*_Giouli, V., Markantonatou, S., Balas, A., Zioga, E., Konstantinidi, R., & Triantafyllidi, E. (2027). Beyond explicit toxicity: A German–Greek dataset for implicit toxic speech detection_. Paper accepted at Findings of the Association for Computational Linguistics: EACL 2027*.
 
 <!-- Add the official citation and ACL Anthology link once available. -->
 
