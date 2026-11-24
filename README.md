@@ -8,6 +8,7 @@ The accompanying notebook documents the classifier training used to establish ex
 
 ## Repository structure
 
+.
 ├── data/                               # German and Greek data and experimental splits
 ├── guidelines/                         # Annotation guidelines
 ├── models/                             # Trained baseline models (to be added)
