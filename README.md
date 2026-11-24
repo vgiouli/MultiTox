@@ -8,8 +8,8 @@ The accompanying notebook documents the classifier training used to establish ex
 
 ## Repository structure
 
-text
-.
+```text
+
 ├── data/                               # German and Greek data and experimental splits
 ├── guidelines/                         # Annotation guidelines
 ├── models/                             # Trained baseline models (to be added)
@@ -18,7 +18,7 @@ text
 ├── src/                                # Training, evaluation, and inference scripts (to be added)
 ├── results/                            # Evaluation outputs (to be added)
 └── README.md
-
+```
 
 ## Datasets
 
