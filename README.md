@@ -10,8 +10,8 @@ The accompanying notebook documents the classifier training used to establish ex
 
 ```text
 
+├── Toxic Speech Annotation Guidelines  # Annotation guidelines
 ├── data/                               # German and Greek data and experimental splits
-├── guidelines/                         # Annotation guidelines
 ├── models/                             # Trained baseline models (to be added)
 ├── notebooks/
 │   └── toxic_classifier_training.ipynb # Baseline training and experimentation
